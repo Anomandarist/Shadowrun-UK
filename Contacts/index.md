@@ -15,7 +15,7 @@ Holly Kendrick | | Elf | 4 | 2 | ‘The Kindled Flame’ Bar Owner | Jack
 [Lionel Cartwright](LionelCartwright.md) | Haematoma | Troll | 6 | 1 | Mafia Boss | Pascal
 Marc MacPhairce | | Troll | 2 | 3 | Physical Forger | Jack
 Natalie James | | Ghoul | | | |
-Ramsey Farmer | Gear Monkey | Troll | 4 | 2 | Mechanic | Loki
+[Ramsey Farmer](RamseyFarmer.md) | Gear Monkey | Troll | 4 | 2 | Mechanic | Loki
 Seb Stephens | Polecat | Ork | 2 | 5 | Adept, Anarchist | Jack, Pascal
 [Taylor Hamilton](TaylorHamilton.md) | | Troll | 3 | 4 | Fixer | Loki
  | Checkmate | Human | | | |
