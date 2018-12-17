@@ -9,9 +9,9 @@ Name | Title | Metatype | C | L | Notes | Player
 [Elle Sashwan](ElleSashwan.md) | | Human | 2 | 3 | Gunshop Owner | Sanguine
 [Frank Richards](FrankRichards.md) | | Dwarf | | | Scrapyard Owner |
 Helen Poole | | Human | 3 | 2 | Screaming Barons Lieutenant | Jack, Sanguine
-Isaak Wendland | | Human | | | Pascal's Father | Pascal
 [Herman Langston](HermanLangston.md) | Kwack | Human | 2 | 1 | Street Doc | Pascal
 Holly Kendrick | | Elf | 4 | 2 | ‘The Kindled Flame’ Bar Owner | Jack
+[Isaak Wendland](IsaakWendland.md) | | Human | | | Pascal’s Father, Genetics Professor | Pascal
 Lionel Cartwright | Haematoma | Troll | 6 | 1 | Mafia Boss | Pascal
 Marc MacPhairce | | Troll | 2 | 3 | Physical Forger | Jack
 Natalie James | | Ghoul | | | |
