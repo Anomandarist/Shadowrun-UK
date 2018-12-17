@@ -18,11 +18,11 @@ Natalie James | | Ghoul | | | |
 Ramsey Farmer | Gear Monkey | Troll | 4 | 2 | Mechanic | Loki
 Seb Stephens | Polecat | Ork | 2 | 5 | Adept, Anarchist | Jack, Pascal
 Taylor Hamilton | | Troll | 3 | 4 | Fixer | Loki
-| Checkmate | Human | | | |
-| Dantee | Human | 3 | 4 | NeoNET IT Security | Hash
-| Dax | | 4 | 3 | Technomancer Mentor | Sanguine
+ | Checkmate | Human | | | |
+ | Dantee | Human | 3 | 4 | NeoNET IT Security | Hash
+ | Dax | | 4 | 3 | Technomancer Mentor | Sanguine
 [*Unknown*](DelBoy.md) | Del-Boy | Human | 4 | 2 | Arms Dealer | Smith
-| Halberd | Troll | | | Screaming Barons Leader |
-| Papa | Dwarf | 3 | 2 | Fish Market Leader |
-| Rex | | 1 | 1 | Matrix Forger | Hash
-| Varnish | Elf | 3 | 3 | Fence | Pascal
+ | Halberd | Troll | | | Screaming Barons Leader |
+ | Papa | Dwarf | 3 | 2 | Fish Market Leader |
+ | Rex | | 1 | 1 | Matrix Forger | Hash
+ | Varnish | Elf | 3 | 3 | Fence | Pascal

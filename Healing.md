@@ -56,7 +56,7 @@
 - Stabilise spell can be used to stabilise a character, Heal spell cannot
 
 Situation | Modifier
-- |
+--------- |:--------:
 Good conditions (sterilised med facility) | +0
 Average conditions (indoors) | -1
 Poor conditions (street or wilderness) | -2
