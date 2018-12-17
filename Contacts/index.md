@@ -7,7 +7,7 @@ Name | Title | Metatype | C | L | Notes | Player
 [Chris Smith](ChrisSmith.md) | Card Shark | Troll | 4 | 2 | Gambler | Loki
 [Dominic Sharpe](DominicSharpe.md) | | Human | 3 | 3 | University of Cambridge Professor | Jack
 [Elle Sashwan](ElleSashwan.md) | | Human | 2 | 3 | Gunshop Owner | Sanguine
-Frank Richards | | Dwarf | | | Scrapyard Owner |
+[Frank Richards](FrankRichards.md) | | Dwarf | | | Scrapyard Owner |
 Helen Poole | | Human | 3 | 2 | Screaming Barons Lieutenant | Jack, Sanguine
 Herman Langston | Kwack | Human | 2 | 1 | Street Doc | Pascal
 Holly Kendrick | | Elf | 4 | 2 | 'The Kindled Flame' Bar Owner | Jack
