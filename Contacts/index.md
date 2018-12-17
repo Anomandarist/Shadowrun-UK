@@ -12,7 +12,7 @@ Helen Poole | | Human | 3 | 2 | Screaming Barons Lieutenant | Jack, Sanguine
 [Herman Langston](HermanLangston.md) | Kwack | Human | 2 | 1 | Street Doc | Pascal
 Holly Kendrick | | Elf | 4 | 2 | ‘The Kindled Flame’ Bar Owner | Jack
 [Isaak Wendland](IsaakWendland.md) | | Human | | | Pascal’s Father, Genetics Professor | Pascal
-Lionel Cartwright | Haematoma | Troll | 6 | 1 | Mafia Boss | Pascal
+[Lionel Cartwright](LionelCartwright.md) | Haematoma | Troll | 6 | 1 | Mafia Boss | Pascal
 Marc MacPhairce | | Troll | 2 | 3 | Physical Forger | Jack
 Natalie James | | Ghoul | | | |
 Ramsey Farmer | Gear Monkey | Troll | 4 | 2 | Mechanic | Loki
