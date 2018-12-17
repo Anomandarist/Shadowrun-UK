@@ -10,8 +10,8 @@ Name | Title | Metatype | C | L | Notes | Player
 [Frank Richards](FrankRichards.md) | | Dwarf | | | Scrapyard Owner |
 Helen Poole | | Human | 3 | 2 | Screaming Barons Lieutenant | Jack, Sanguine
 Herman Langston | Kwack | Human | 2 | 1 | Street Doc | Pascal
-Holly Kendrick | | Elf | 4 | 2 | 'The Kindled Flame' Bar Owner | Jack
 Isaak Wendland | | Human | | | Pascal's Father | Pascal
+Holly Kendrick | | Elf | 4 | 2 | ‘The Kindled Flame’ Bar Owner | Jack
 Lionel Cartwright | Haematoma | Troll | 6 | 1 | Mafia Boss | Pascal
 Marc MacPhairce | | Troll | 2 | 3 | Physical Forger | Jack
 Natalie James | | Ghoul | | | |
