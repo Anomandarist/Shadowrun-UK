@@ -1,7 +1,7 @@
 # Contacts
 
 Name | Title | Metatype | C | L | Notes | Player
-- |
+---- | ----- | -------- |:-:|:-:| ----- | ------
 Amber Nicholson | | Ork | 1 | 2 | Fish Market Stallholder | Hash
 Angela Ziegler | Black Tag | Elf | 2 | 5 | Street Doc | Smith
 Chris Smith | Card Shark | Troll | 4 | 2 | Gambler | Loki
