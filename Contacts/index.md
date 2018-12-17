@@ -5,7 +5,7 @@ Name | Title | Metatype | C | L | Notes | Player
 [Amber Nicholson](AmberNicholson.md) | | Ork | 1 | 2 | Fish Market Stallholder | Hash
 [Angela Ziegler](AngelaZiegler.md) | Black Tag | Elf | 2 | 5 | Street Doc | Smith
 [Chris Smith](ChrisSmith.md) | Card Shark | Troll | 4 | 2 | Gambler | Loki
-Dominic Sharpe | | Human | 3 | 3 | University of Cambridge Academic | Jack
+[Dominic Sharpe](DominicSharpe.md) | | Human | 3 | 3 | University of Cambridge Professor | Jack
 Elle Sashwan | | Human | 2 | 3 | Gunshop Owner | Sanguine
 Frank Richards | | Dwarf | | | Scrapyard Owner |
 Helen Poole | | Human | 3 | 2 | Screaming Barons Lieutenant | Jack, Sanguine
