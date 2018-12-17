@@ -25,4 +25,4 @@ Taylor Hamilton | | Troll | 3 | 4 | Fixer | Loki
  | Halberd | Troll | | | Screaming Barons Leader |
 [*Unknown*](Papa.md) | Papa | Dwarf | 3 | 2 | Fish Market Leader |
  | Rex | | 1 | 1 | Matrix Forger | Hash
- | Varnish | Elf | 3 | 3 | Fence | Pascal
+[*Unknown*](Varnish.md) | Varnish | Elf | 3 | 3 | Fence | Pascal
