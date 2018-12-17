@@ -6,7 +6,7 @@ Name | Title | Metatype | C | L | Notes | Player
 [Angela Ziegler](AngelaZiegler.md) | Black Tag | Elf | 2 | 5 | Street Doc | Smith
 [Chris Smith](ChrisSmith.md) | Card Shark | Troll | 4 | 2 | Gambler | Loki
 [Dominic Sharpe](DominicSharpe.md) | | Human | 3 | 3 | University of Cambridge Professor | Jack
-Elle Sashwan | | Human | 2 | 3 | Gunshop Owner | Sanguine
+[Elle Sashwan](ElleSashwan.md) | | Human | 2 | 3 | Gunshop Owner | Sanguine
 Frank Richards | | Dwarf | | | Scrapyard Owner |
 Helen Poole | | Human | 3 | 2 | Screaming Barons Lieutenant | Jack, Sanguine
 Herman Langston | Kwack | Human | 2 | 1 | Street Doc | Pascal
