@@ -23,6 +23,6 @@ Taylor Hamilton | | Troll | 3 | 4 | Fixer | Loki
  | Dax | | 4 | 3 | Technomancer Mentor | Sanguine
 [*Unknown*](DelBoy.md) | Del-Boy | Human | 4 | 2 | Arms Dealer | Smith
  | Halberd | Troll | | | Screaming Barons Leader |
- | Papa | Dwarf | 3 | 2 | Fish Market Leader |
+[*Unknown*](Papa.md) | Papa | Dwarf | 3 | 2 | Fish Market Leader |
  | Rex | | 1 | 1 | Matrix Forger | Hash
  | Varnish | Elf | 3 | 3 | Fence | Pascal
