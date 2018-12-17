@@ -1,5 +1,5 @@
-[Contacts](Contacts\)
-<br>[Downtime](Downtime\)
+[Contacts](Contacts)
+<br>[Downtime](Downtime)
 <br>[Healing](Healing.md)
 
 ---
