@@ -17,7 +17,7 @@ Marc MacPhairce | | Troll | 2 | 3 | Physical Forger | Jack
 Natalie James | | Ghoul | | | |
 Ramsey Farmer | Gear Monkey | Troll | 4 | 2 | Mechanic | Loki
 Seb Stephens | Polecat | Ork | 2 | 5 | Adept, Anarchist | Jack, Pascal
-Taylor Hamilton | | Troll | 3 | 4 | Fixer | Loki
+[Taylor Hamilton](TaylorHamilton.md) | | Troll | 3 | 4 | Fixer | Loki
  | Checkmate | Human | | | |
  | Dantee | Human | 3 | 4 | NeoNET IT Security | Hash
  | Dax | | 4 | 3 | Technomancer Mentor | Sanguine
