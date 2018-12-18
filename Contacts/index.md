@@ -8,7 +8,7 @@ Name | Title | Metatype | C | L | Notes | Player
 [Dominic Sharpe](DominicSharpe.md) | | Human | 3 | 3 | University of Cambridge Professor | Jack
 [Elle Sashwan](ElleSashwan.md) | | Human | 2 | 3 | Gunshop Owner | Sanguine
 [Frank Richards](FrankRichards.md) | | Dwarf | | | Scrapyard Owner |
-Helen Poole | | Human | 3 | 2 | Screaming Barons Lieutenant | Jack, Sanguine
+[Helen Poole](HelenPoole.md) | | Human | 3 | 2 (Jack), 1 (Sanguine) | Screaming Barons Lieutenant | Jack, Sanguine
 [Herman Langston](HermanLangston.md) | Kwack | Human | 2 | 1 | Street Doc | Pascal
 Holly Kendrick | | Elf | 4 | 2 | ‘The Kindled Flame’ Bar Owner | Jack
 [Isaak Wendland](IsaakWendland.md) | | Human | | | Pascal’s Father, Genetics Professor | Pascal
