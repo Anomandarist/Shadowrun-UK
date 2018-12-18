@@ -19,10 +19,10 @@ Natalie James | | Ghoul (Human) | | | |
 [Seb Stephens](SebStephens.md) | Polecat | Ork | 2 | 5 (Jack), 3 (Pascal) | Adept, Anarchist | Jack, Pascal
 [Taylor Hamilton](TaylorHamilton.md) | | Troll | 3 | 4 | Fixer | Loki
  | Checkmate | Human | | | |
-[*Unknown*](Dantee.md) | Dantee | Human | 3 | 4 | NeoNET IT Security | Hash
-[*Unknown*](Dax.md) | Dax | | 4 | 3 | Technomancer Mentor | Sanguine
-[*Unknown*](DelBoy.md) | Del-Boy | Human | 4 | 2 | Arms Dealer | Smith
-[*Unknown*](Halberd.md) | Halberd | Troll | | | Screaming Barons Leader |
-[*Unknown*](Papa.md) | Papa | Dwarf | 3 | 2 | Fish Market Leader |
-[*Unknown*](Rex.md) | Rex | | 1 | 1 | Matrix Forger | Hash
-[*Unknown*](Varnish.md) | Varnish | Elf | 3 | 3 | Fence | Pascal
+ | [Dantee](Dantee.md) | Human | 3 | 4 | NeoNET IT Security | Hash
+ | [Dax](Dax.md) | | 4 | 3 | Technomancer Mentor | Sanguine
+ | [Del-Boy](DelBoy.md) | Human | 4 | 2 | Arms Dealer | Smith
+ | [Halberd](Halberd.md) | Troll | | | Screaming Barons Leader |
+ | [Papa](Papa.md) | Dwarf | 3 | 2 | Fish Market Leader |
+ | [Rex](Rex.md) | | 1 | 1 | Matrix Forger | Hash
+ | [Varnish](Varnish.md) | Elf | 3 | 3 | Fence | Pascal
