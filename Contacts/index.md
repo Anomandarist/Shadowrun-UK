@@ -19,7 +19,7 @@ Natalie James | | Ghoul (Human) | | | |
 [Seb Stephens](SebStephens.md) | Polecat | Ork | 2 | 5 (Jack), 3 (Pascal) | Adept, Anarchist | Jack, Pascal
 [Taylor Hamilton](TaylorHamilton.md) | | Troll | 3 | 4 | Fixer | Loki
  | Checkmate | Human | | | |
- | Dantee | Human | 3 | 4 | NeoNET IT Security | Hash
+[*Unknown*](Dantee.md) | Dantee | Human | 3 | 4 | NeoNET IT Security | Hash
 [*Unknown*](Dax.md) | Dax | | 4 | 3 | Technomancer Mentor | Sanguine
 [*Unknown*](DelBoy.md) | Del-Boy | Human | 4 | 2 | Arms Dealer | Smith
 [*Unknown*](Halberd.md) | Halberd | Troll | | | Screaming Barons Leader |
