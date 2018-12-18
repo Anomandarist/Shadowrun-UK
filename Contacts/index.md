@@ -20,7 +20,7 @@ Seb Stephens | Polecat | Ork | 2 | 5 | Adept, Anarchist | Jack, Pascal
 [Taylor Hamilton](TaylorHamilton.md) | | Troll | 3 | 4 | Fixer | Loki
  | Checkmate | Human | | | |
  | Dantee | Human | 3 | 4 | NeoNET IT Security | Hash
- | Dax | | 4 | 3 | Technomancer Mentor | Sanguine
+[*Unknown*](Dax.md) | Dax | | 4 | 3 | Technomancer Mentor | Sanguine
 [*Unknown*](DelBoy.md) | Del-Boy | Human | 4 | 2 | Arms Dealer | Smith
  | Halberd | Troll | | | Screaming Barons Leader |
 [*Unknown*](Papa.md) | Papa | Dwarf | 3 | 2 | Fish Market Leader |
