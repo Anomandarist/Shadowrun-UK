@@ -1,4 +1,4 @@
-# Chris 'Card Shark' Smith
+# Chris ‘Card Shark’ Smith
 
 ## Description
 
