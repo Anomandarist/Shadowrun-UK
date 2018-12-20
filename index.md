@@ -8,4 +8,8 @@
 
 ---
 
+[Chummer Source Book Settings](Miscellaneous\ChummerSourceBook.md)
+
+---
+
 [Original Welcome Page](Miscellaneous\Welcome_Original.md)
