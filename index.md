@@ -1,11 +1,15 @@
 [Contacts](Contacts)
 <br>[Downtime](Downtime)
-<br>[Healing](Healing.md)
+<br>[Healing](Miscellaneous\Healing.md)
 
 ---
 
-[Links](Links.md)
+[Links](Miscellaneous\Links.md)
 
 ---
 
-[Original Welcome Page](Welcome_Original.md)
+[Chummer Source Book Settings](Miscellaneous\ChummerSourceBook.md)
+
+---
+
+[Original Welcome Page](Miscellaneous\Welcome_Original.md)
