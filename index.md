@@ -1,6 +1,6 @@
-[Contacts](Contacts)
-<br>[Downtime](Downtime)
-<br>[Healing](Miscellaneous/Healing.md)
+[Contacts](Contacts)\
+[Downtime](Downtime)\
+[Healing](Miscellaneous/Healing.md)
 
 ---
 
@@ -8,8 +8,8 @@
 
 ---
 
-[Chummer Source Book Settings](Miscellaneous/ChummerSourceBook.md)
-<br>[Rule Clarifications and Houserules](Miscellaneous/RuleClarificationsAndHouserules.md)
+[Chummer Source Book Settings](Miscellaneous/ChummerSourceBook.md)\
+[Rule Clarifications and Houserules](Miscellaneous/RuleClarificationsAndHouserules.md)
 
 ---
 
