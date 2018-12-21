@@ -9,7 +9,7 @@
 ---
 
 [Chummer Source Book Settings](Miscellaneous/ChummerSourceBook.md)
-[Rule Clarifications and Houserules](Miscellaneous/RuleClarificationsAndHouserules.md)
+<br>[Rule Clarifications and Houserules](Miscellaneous/RuleClarificationsAndHouserules.md)
 
 ---
 
