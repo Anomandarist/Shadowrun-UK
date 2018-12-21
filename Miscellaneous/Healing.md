@@ -1,7 +1,6 @@
 # Healing
 
 ## First Aid
-
 - Reduce Stun or Physical
 - Requires medkit within 1 hour of damage taken
 - First Aid + Logic [Mental] (2) Test
@@ -48,8 +47,7 @@
 
 ## Stabilisation
 - Box of damage every (Body) minutes
-- First Aid + Logic [Mental] (3) Test or Medicine + Logic
-[Mental] (3) Test
+- First Aid + Logic [Mental] (3) Test or Medicine + Logic [Mental] (3) Test
 - Situational modifiers apply
 - If pass, no more automatic damage
 - If fail, can retry at cumulative -2 modifier

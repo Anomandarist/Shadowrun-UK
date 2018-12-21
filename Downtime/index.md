@@ -1,7 +1,7 @@
 # Downtime
 
 In a single downtime period, a runner can improve on:
-- One Mental and and Physical attribute
+- One Mental and Physical attribute
 - One attribute and one skill
 - Skills up to their Logic/2 (round up)
 - Specialisation
