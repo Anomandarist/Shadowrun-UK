@@ -14,6 +14,7 @@
 	- Number of Combat Turns = boxes healed
 - Can be used to diagnose a character's health, extent of wounds taken or effect of other ailments
 - Cannot be used after Heal spell
+- None of us know any!
 
 ## Natural Recovery
 - Healing handled as an Extended Test
