@@ -8,7 +8,7 @@
 [Metatypes](Miscellaneous/Metatypes.md)  
 [Healing](Miscellaneous/Healing.md)  
 [Initiative](Miscellaneous/Initiative.md)  
-[Interrupt Actions](Miscellaneous/Interrupt Actions.md)
+[Interrupt Actions](Miscellaneous/InterruptActions.md)
 
 ---
 
