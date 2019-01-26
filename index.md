@@ -1,23 +1,20 @@
-[Run Related Information](RunRelated)  
-[Social Tests](RunRelated/Social.md)
+[Contacts](Contacts)
 
 ---
 
-[Contacts](Contacts)  
-[Downtime](Downtime)  
-[Metatypes](Miscellaneous/Metatypes.md)  
-[Healing](Miscellaneous/Healing.md)  
-[Initiative](Miscellaneous/Initiative.md)  
-[Interrupt Actions](Miscellaneous/InterruptActions.md)  
-[Technomancers](Miscellaneous/Technomancers.md)
-
----
-
-[Links](Miscellaneous/Links.md)
+[Downtime Advancement](Rules/DowntimeAdvancement.md)  
+[Healing](Rules/Healing.md)  
+[HTR Response Time](Rules/HTRResponseTime.md)  
+[Initiative](Rules/Initiative.md)  
+[Interrupt Actions](Rules/InterruptActions.md)  
+[Metatypes](Rules/Metatypes.md)  
+[Social Tests](Rules/SocialTests.md)  
+[Technomancers](Rules/Technomancers.md)
 
 ---
 
 [Chummer Source Book Settings](Miscellaneous/ChummerSourceBook.md)  
+[Links](Miscellaneous/Links.md)  
 [Rule Clarifications and Houserules](Miscellaneous/RuleClarificationsAndHouserules.md)
 
 ---
