@@ -1,5 +1,6 @@
 ---
 title: Contacts
+layout: default
 ---
 
 | Name                                     | Title                 | Metatype      |  C  |           L            | Notes                               | Player         |
