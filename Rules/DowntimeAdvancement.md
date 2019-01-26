@@ -1,4 +1,6 @@
-# Downtime Advancement
+---
+title: Downtime Advancement
+---
 
 In a single downtime period, a runner can improve on:
 - One Mental and Physical attribute
