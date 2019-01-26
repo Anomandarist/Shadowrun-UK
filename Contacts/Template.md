@@ -1,6 +1,8 @@
-# NAME
+---
+title: NAME
+---
 
-## Description
+# Description
 
 | Item                 | Description |
 | -------------------- | ----------- |
@@ -8,4 +10,4 @@
 | Location             |             |
 | Physical Description |             |
 
-## Bio
+# Bio

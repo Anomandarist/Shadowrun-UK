@@ -1,6 +1,8 @@
-# ‘Rex’
+---
+title: ‘Rex’
+---
 
-## Description
+# Description
 
 | Item                 | Description |
 | -------------------- | ----------- |
@@ -8,4 +10,4 @@
 | Location             | Matrix      |
 | Physical Description |             |
 
-## Bio
+# Bio

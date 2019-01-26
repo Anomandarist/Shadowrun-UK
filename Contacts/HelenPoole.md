@@ -1,6 +1,8 @@
-# Helen Poole
+---
+title: Helen Poole
+---
 
-## Description
+# Description
 
 | Item                 | Description |
 | -------------------- | ----------- |
@@ -8,4 +10,4 @@
 | Location             | Barrens     |
 | Physical Description |             |
 
-## Bio
+# Bio

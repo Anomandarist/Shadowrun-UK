@@ -1,4 +1,6 @@
-# HTR Team Response Time
+---
+title: HTR Team Response Time
+---
 
 | Security Level | Example                                              |  Response Time   |
 |:--------------:| ---------------------------------------------------- |:----------------:|

@@ -1,3 +1,7 @@
+---
+title: Chummer Source Books
+---
+
 List of Sourcebooks in Chummer and their page offset values
 
 | Book                                          | Page Offset |

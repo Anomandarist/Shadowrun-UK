@@ -1,6 +1,8 @@
-# Holly Kendrick
+---
+title: Holly Kendrick
+---
 
-## Description
+# Description
 
 | Item                 | Description                    |
 | -------------------- | ------------------------------ |
@@ -8,4 +10,4 @@
 | Location             | ‘The Kindled Flame’, Cambridge |
 | Physical Description |                                |
 
-## Bio
+# Bio

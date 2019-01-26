@@ -1,9 +1,11 @@
-# Interrupt Actions
+---
+title: Interrupt Actions
+---
 
 - These are actions that may be taken outside of a character's turn at the cost of some of their initiative. They may only be taken if the character has enough remaining initiative to pay the price of the action.
 - Surprised characters may not take interrupt actions prior to their first action phase.
 
-## General Interrupt actions
+# General Interrupt actions
 
 | Action                                | Initiative Cost |                        Trigger                        |                                                                                                                                                             Effect                                                                                                                                                              |    Duration    |
 | ------------------------------------- |:---------------:|:-----------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:--------------:|
@@ -19,7 +21,7 @@
 | Protect the Principle                 |   -5 + 1 Edge   |              Another target is attacked               |                                                                                                                          Move up to 2m to get in the way of the attack.  No defence test can be taken.                                                                                                                          |                |
 
 
-## Martial Arts Specific Interrupt Actions
+# Martial Arts Specific Interrupt Actions
 
 | Action          | Initiative Cost |                         Trigger                         |                                                                                                                                              Effect                                                                                                                                               | Duration |
 | --------------- |:---------------:|:-------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:--------:|

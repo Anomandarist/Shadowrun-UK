@@ -1,6 +1,8 @@
-# Dominic Sharpe
+---
+title: Dominic Sharpe
+---
 
-## Description
+# Description
 
 | Item                 | Description |
 | -------------------- | ----------- |
@@ -8,4 +10,4 @@
 | Location             | Cambridge   |
 | Physical Description |             |
 
-## Bio
+# Bio

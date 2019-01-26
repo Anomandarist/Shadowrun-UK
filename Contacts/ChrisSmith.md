@@ -1,6 +1,8 @@
-# Chris ‘Card Shark’ Smith
+---
+title: Chris ‘Card Shark’ Smith
+---
 
-## Description
+# Description
 
 | Item                 | Description |
 | -------------------- | ----------- |
@@ -8,5 +10,5 @@
 | Location             | Newcastle   |
 | Physical Description | Burly troll |
 
-## Bio
+# Bio
 Divorced from spending too much time at the card tables, and full of hard luck stories.  Prefers hard currency, to gamble away quicker.

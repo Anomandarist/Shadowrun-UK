@@ -1,4 +1,6 @@
-# Contacts
+---
+title: Contacts
+---
 
 | Name                                     | Title                 | Metatype      |  C  |           L            | Notes                               | Player         |
 | ---------------------------------------- | --------------------- | ------------- |:---:|:----------------------:| ----------------------------------- | -------------- |
@@ -27,7 +29,7 @@
 |                                          | [Rex](Rex.md)         |               |  1  |           1            | Matrix Forger                       | Hash           |
 |                                          | [Varnish](Varnish.md) | Elf           |  3  |           3            | Fence                               | Pascal         |
 
-## Connection Rating Table
+# Connection Rating Table
 
 | Rating | Description                                                                                                                                               |
 |:------:| --------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -44,7 +46,7 @@
 |   11   | Extremely well-connected worldwide, with significant social influence; mid-level executive position in a major national government or AAA megacorporation |
 |   12   | Global power-player with extensive social influence; holds a key executive position in a major national government or AAA megacorporation                 |
 
-## Loyalty Rating Table
+# Loyalty Rating Table
 
 | Rating | Description                                                                                                                                                                                                                       |
 |:------:| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

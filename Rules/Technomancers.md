@@ -1,6 +1,8 @@
-# Technomancers
+---
+title: Technomancers
+---
 
-## Living Persona
+# Living Persona
 
 | Matrix Attribute |  Rating   |
 |:----------------:|:---------:|

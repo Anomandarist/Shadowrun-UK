@@ -1,11 +1,13 @@
-# Rule Clarifications and Houserules
+---
+title: Rule Clarifications and Houserules
+---
 
-## Clarifications
+# Clarifications
 
 - NHS is still in existence
 	- Street docs do exist (as would you go to the NHS if you were involved with firearms if they are illegal?)
 
-## Houserules
+# Houserules
 
 - Weapons are generally more restricted/illegal in the UK
 	- Non-R-availability weapons become R-availability weapons

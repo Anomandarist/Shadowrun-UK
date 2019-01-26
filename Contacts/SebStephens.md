@@ -1,6 +1,8 @@
-# Seb ‘Polecat’ Stephens
+---
+title: Seb ‘Polecat’ Stephens
+---
 
-## Description
+# Description
 
 | Item                 | Description |
 | -------------------- | ----------- |
@@ -8,4 +10,4 @@
 | Location             |             |
 | Physical Description |             |
 
-## Bio
+# Bio

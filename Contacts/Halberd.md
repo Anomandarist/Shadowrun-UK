@@ -1,6 +1,8 @@
-# ‘Halberd’
+---
+title: ‘Halberd’
+---
 
-## Description
+# Description
 
 | Item                 | Description |
 | -------------------- | ----------- |
@@ -8,4 +10,4 @@
 | Location             | Barrens     |
 | Physical Description |             |
 
-## Bio
+# Bio

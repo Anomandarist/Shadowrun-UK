@@ -1,4 +1,6 @@
-#Metatypes
+---
+title: Metatypes
+---
 
 | Metatype | Av. Height | Av. Weight | Av. Lifespan           |
 | -------- |:----------:|:----------:| ---------------------- |

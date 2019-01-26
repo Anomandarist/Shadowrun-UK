@@ -1,6 +1,8 @@
-# Amber Nicholson
+---
+title: Amber Nicholson
+---
 
-## Description
+# Description
 
 | Item                 | Description |
 | -------------------- | ----------- |
@@ -8,4 +10,4 @@
 | Location             | Fish Market |
 | Physical Description |             |
 
-## Bio
+# Bio
