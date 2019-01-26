@@ -2,11 +2,11 @@
 
 ## Description
 
-Item | Description
----- | -----------
-Age | Mid 50’s
-Location | London
-Physical Description | Short, balding human male with a penchant for fur lined coats, gold rings and cigars
+| Item                 | Description                                                                          |
+| -------------------- | ------------------------------------------------------------------------------------ |
+| Age                  | Mid 50’s                                                                             |
+| Location             | London                                                                               |
+| Physical Description | Short, balding human male with a penchant for fur lined coats, gold rings and cigars |
 
 ## Bio
 Runs a black market, arms running business across East London.

@@ -2,10 +2,10 @@
 
 ## Description
 
-Item | Description
----- | -----------
-Age |
-Location |
-Physical Description |
+| Item                 | Description |
+| -------------------- | ----------- |
+| Age                  |             |
+| Location             |             |
+| Physical Description |             |
 
 ## Bio
