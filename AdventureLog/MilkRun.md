@@ -14,7 +14,7 @@ title: Milk Run
 ## Details
 - Goat did delivery by boat to Lockdown, who the runners are guarding
 - Daggerbacks were active in the area
-- Runners levitated Lockdown's motorbike over the river
+- Runners levitated Lockdown’s motorbike over the river
 - Goat came and shot Jack
 - Goat was killed by Smith
 - Runners escaped by taking the boat powering it with a water spirit into the river and landing downstream

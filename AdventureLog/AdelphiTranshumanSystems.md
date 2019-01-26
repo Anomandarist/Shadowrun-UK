@@ -19,7 +19,7 @@ title: Adelphi Transhuman Systems
 	- DNI Research
 	- Progress seems too fast
 	- Illegal activity?
-	- Seb and his organisation have got information that they might be doing "testing" that is outside of being ethical
+	- Seb and his organisation have got information that they might be doing “testing” that is outside of being ethical
 	- Contact inside (Poltergeist) has suspicions and is able to help
 - No strict time limit
 - ADTS building is 20 storys
@@ -61,7 +61,7 @@ title: Adelphi Transhuman Systems
 - Need - Blueprints
 - Need a reason to get in - Pretend to be a Plumber
 - Polecat arrives
-- Sneaked back into house and returned coat and passcard.
+- Sneaked back into house and returned coat and passcard
 
 #### ADTS Building:
 - 1-5: Offices
@@ -84,7 +84,7 @@ title: Adelphi Transhuman Systems
 	- Smaller 2 floors, warehouse
 	- Belongs to the same company
 	- Water tank on the roof for sprinklers
-- Smith shops for overalls, cheap plumbing tools and duffle bags.
+- Smith shops for overalls, cheap plumbing tools and duffle bags
 
 Warehouse:
 - Across the road behind the building
@@ -100,7 +100,7 @@ Warehouse:
 	- Pallets, boxes, forklift trucks
 	- Ramp leading down
 	- 3 people
-	- At the bottom there is a door- Card reader
+	- At the bottom there is a door - Card reader
 - Key card acquired!
 
 Run Accounts:
