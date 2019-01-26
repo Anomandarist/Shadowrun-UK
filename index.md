@@ -1,3 +1,4 @@
+[Adventure Log](AdventureLog)  
 [Contacts](Contacts)
 
 ---
