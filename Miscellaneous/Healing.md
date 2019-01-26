@@ -53,18 +53,18 @@
 - If fail, can retry at cumulative -2 modifier
 - Stabilise spell can be used to stabilise a character, Heal spell cannot
 
-Situation | Modifier
---------- |:--------:
-Good conditions (sterilised med facility) | +0
-Average conditions (indoors) | -1
-Poor conditions (street or wilderness) | -2
-Bad conditions (combat, bad weather, swamp) | -3
-Terrible conditions (fire, severe storm) | -4
-No medical supplies | -3
-Improvised medical supplies | -1
-Wireless medkit/autodoc | +Rating
-Applying medical care remotely through medkit/autodoc | -2
-Assistance | As Teamwork Test
-Uncooperative patient | -2
-Patient is Awakened or Emerged | -2
-Patient has implants | -1 per 2 full points of lost Essence
+| Situation                                             |               Modifier               |
+| ----------------------------------------------------- |:------------------------------------:|
+| Good conditions (sterilised med facility)             |                  +0                  |
+| Average conditions (indoors)                          |                  -1                  |
+| Poor conditions (street or wilderness)                |                  -2                  |
+| Bad conditions (combat, bad weather, swamp)           |                  -3                  |
+| Terrible conditions (fire, severe storm)              |                  -4                  |
+| No medical supplies                                   |                  -3                  |
+| Improvised medical supplies                           |                  -1                  |
+| Wireless medkit/autodoc                               |               +Rating                |
+| Applying medical care remotely through medkit/autodoc |                  -2                  |
+| Assistance                                            |           As Teamwork Test           |
+| Uncooperative patient                                 |                  -2                  |
+| Patient is Awakened or Emerged                        |                  -2                  |
+| Patient has implants                                  | -1 per 2 full points of lost Essence |
