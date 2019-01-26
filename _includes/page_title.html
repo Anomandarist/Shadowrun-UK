@@ -2,7 +2,9 @@
 	<h1>{{ page.title | default: site.title }}</h1>
 	{%- if page.title != null %}
 	<p>{{ site.title }}
-		{%- if page.subtitlesuffix != null %}{{ page.subtitlesuffix | prepend: ": "}}{% endif -%}
+		{%- if layout.subtitlesuffix != null -%}
+			{{ layout.subtitlesuffix | prepend: ": "}}
+		{%- endif -%}
 	</p>
 	{%- endif %}
 </section>
