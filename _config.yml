@@ -3,6 +3,6 @@ description: A Shadowrun 5e game set in the UK
 defaults:
     -
         scope:
-            path: "Contacts/"
+            path: "Contacts"
         values:
             layout: contacts
