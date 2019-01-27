@@ -13,3 +13,4 @@ layout: default
 | 15/01/2076 (Wednesday) - 16/01/2076 (Thursday) | [Finding a Pilot](FindingAPilot.md)                       |
 | 23/01/2076 (Thursday) - 25/01/2076 (Saturday)  | [A Quiver Full of Problems](AQuiverFullOfProblems.md)     |
 | 09/02/2076 (Sunday) - 20/02/2076 (Thursday)    | [A Different Kind of Wetwork](ADifferentKindOfWetwork.md) |
+| 16/03/2076 (Monday) - 02/04/2076 (Thursday)    | [Putting on a Show](PuttingOnAShow.md)                    |
