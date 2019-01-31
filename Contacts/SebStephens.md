@@ -1,11 +1,13 @@
-# Seb ‘Polecat’ Stephens
+---
+title: Seb ‘Polecat’ Stephens
+---
 
-## Description
+# Description
 
-Item | Description
----- | -----------
-Age | Mid-30s
-Location |
-Physical Description |
+| Item                 | Description |
+| -------------------- | ----------- |
+| Age                  | Mid-30s     |
+| Location             |             |
+| Physical Description |             |
 
-## Bio
+# Bio

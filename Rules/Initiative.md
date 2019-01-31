@@ -1,24 +1,26 @@
-# Initiative
+---
+title: Initiative
+---
 
 - Encounters are divided into 3s COMBAT TURNS
 - Combat turns are divided into INITIATIVE PASSES
 - Initiative Passes are divided into each character's ACTION PHASE
 - Initiative is rolled at the start of each combat turn to determine the order in which characters act and how many passes they get to perform
 
-## Roll INITIATIVE
+# Roll Initiative
 
 - Initiative consists of a static modifier + a number of d6s.
 - It is dependent on the environment the character is occupying.
 
 
-Initiative Type | Attributes | Base Initiative Dice
---------------- |:----------:|:--------------------:|
-Physical | REA + INT | 1d6
-Astral | INT x2 | 2d6
-Matrix AR | REA + INT | 1d6
-Matrix Cold VR | Data Processing + INT | 3d6
-Matrix Hot VR | Data Processing + INT | 4d6
-Rigging AR | REA + INT | 1d6
+| Initiative Type |      Attributes       | Base Initiative Dice |
+| --------------- |:---------------------:|:--------------------:|
+| Physical        |       REA + INT       |         1d6          |
+| Astral          |        INT x2         |         2d6          |
+| Matrix AR       |       REA + INT       |         1d6          |
+| Matrix Cold VR  | Data Processing + INT |         3d6          |
+| Matrix Hot VR   | Data Processing + INT |         4d6          |
+| Rigging AR      |       REA + INT       |         1d6          |
 
 - Characters act in initiative order
 - In the case of a tie use ERIC (Edge, Reaction, Intuition, Coin Toss)
@@ -29,7 +31,7 @@ Rigging AR | REA + INT | 1d6
 	- Additional dice are rolled and the sum added to the current initiative
 	- If dice are lost, roll a number of dice equal to the difference and subtract this from the current initiative.
 
-## Use of Edge
+# Use of Edge
 - Seize the Initiative : You go first for an entire combat turn, regardless of rolled initiative. If multiple characters Seize the Initiative they all go at the top of the initiative order, in order of initiative, followed by everyone else.
 - Blitz : Roll 5d6 for your initiative this combat turn.
 

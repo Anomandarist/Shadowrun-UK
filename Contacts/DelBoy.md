@@ -1,14 +1,16 @@
-# ‘Del-Boy’
+---
+title: ‘Del-Boy’
+---
 
-## Description
+# Description
 
-Item | Description
----- | -----------
-Age | Mid 50’s
-Location | London
-Physical Description | Short, balding human male with a penchant for fur lined coats, gold rings and cigars
+| Item                 | Description                                                                          |
+| -------------------- | ------------------------------------------------------------------------------------ |
+| Age                  | Mid 50’s                                                                             |
+| Location             | London                                                                               |
+| Physical Description | Short, balding human male with a penchant for fur lined coats, gold rings and cigars |
 
-## Bio
+# Bio
 Runs a black market, arms running business across East London.
 
 Despite coming across as jovial and talkative he is extremely careful with what he says and never gives away any true information about himself or the extent of his business.

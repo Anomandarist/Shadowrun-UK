@@ -1,3 +1,13 @@
-theme: jekyll-theme-midnight
 title: Shadowrun UK
 description: A Shadowrun 5e game set in the UK
+defaults:
+    -
+        scope:
+            path: "AdventureLog"
+        values:
+            layout: adventureLog
+    -
+        scope:
+            path: "Contacts"
+        values:
+            layout: contacts

@@ -1,11 +1,13 @@
-# ‘Halberd’
+---
+title: ‘Halberd’
+---
 
-## Description
+# Description
 
-Item | Description
----- | -----------
-Age | 20s
-Location | Barrens
-Physical Description |
+| Item                 | Description |
+| -------------------- | ----------- |
+| Age                  | 20s         |
+| Location             | Barrens     |
+| Physical Description |             |
 
-## Bio
+# Bio

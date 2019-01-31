@@ -1,0 +1,13 @@
+<section id="title">
+	<h1>{{ page.title | default: site.title }}</h1>
+	<p>
+		{%- if page.title != null -%}
+			{{ site.title }}
+			{%- if layout.subtitlesuffix != null -%}
+				{{ layout.subtitlesuffix | prepend: ": "}}
+			{%- endif -%}
+		{%- else -%}
+			{{ site.description }}
+		{%- endif -%}
+	</p>
+</section>

@@ -1,12 +1,14 @@
-# Marc MacPhairce
+---
+title: Marc MacPhairce
+---
 
-## Description
+# Description
 
-Item | Description
----- | -----------
-Age |
-Location |
-Physical Description | Dark grey troll, tall, not huge build, minotaur horns, strong Scottish accent
+| Item                 | Description                                                                   |
+| -------------------- | ----------------------------------------------------------------------------- |
+| Age                  |                                                                               |
+| Location             |                                                                               |
+| Physical Description | Dark grey troll, tall, not huge build, minotaur horns, strong Scottish accent |
 
-## Bio
+# Bio
 Glaswegian

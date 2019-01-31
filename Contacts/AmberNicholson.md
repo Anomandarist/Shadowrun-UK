@@ -1,11 +1,13 @@
-# Amber Nicholson
+---
+title: Amber Nicholson
+---
 
-## Description
+# Description
 
-Item | Description
----- | -----------
-Age | 30s
-Location | Fish Market
-Physical Description |
+| Item                 | Description |
+| -------------------- | ----------- |
+| Age                  | 30s         |
+| Location             | Fish Market |
+| Physical Description |             |
 
-## Bio
+# Bio

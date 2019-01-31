@@ -1,11 +1,13 @@
-# Holly Kendrick
+---
+title: Holly Kendrick
+---
 
-## Description
+# Description
 
-Item | Description
----- | -----------
-Age | Mid-50s
-Location | ‘The Kindled Flame’, Cambridge
-Physical Description |
+| Item                 | Description                    |
+| -------------------- | ------------------------------ |
+| Age                  | Mid-50s                        |
+| Location             | ‘The Kindled Flame’, Cambridge |
+| Physical Description |                                |
 
-## Bio
+# Bio

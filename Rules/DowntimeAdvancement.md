@@ -1,4 +1,6 @@
-# Downtime
+---
+title: Downtime Advancement
+---
 
 In a single downtime period, a runner can improve on:
 - One Mental and Physical attribute
@@ -9,7 +11,7 @@ In a single downtime period, a runner can improve on:
 
 Edge can be raised at any time
 
-## Character Improvement Table
+# Character Improvement Table
 <table>
 <thead>
 	<tr>

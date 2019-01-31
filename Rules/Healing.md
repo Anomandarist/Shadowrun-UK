@@ -1,6 +1,8 @@
-# Healing
+---
+title: Healing
+---
 
-## First Aid
+# First Aid
 - Reduce Stun or Physical
 - Requires medkit within 1 hour of damage taken
 - First Aid + Logic [Mental] (2) Test
@@ -15,7 +17,7 @@
 - Can be used to diagnose a character's health, extent of wounds taken or effect of other ailments
 - Cannot be used after Heal spell
 
-## Natural Recovery
+# Natural Recovery
 - Healing handled as an Extended Test
 - Stun Damage:
 	- Body + Willpower (1 hour) Extended Test
@@ -27,7 +29,7 @@
 - Glitch: Doubles resting time
 - Critical Glitch: Increase damage by 1d3 as well as doubles resting time
 
-## Medicine
+# Medicine
 - Medicine + Logic [Mental] Test
 	- Wound modifiers apply if applying to own wounds
 	- Provide +hit modifier to subsequent healing tests target makes
@@ -36,16 +38,16 @@
 - Can be used to diagnose a character’s health
 - Cannot be used in combat
 
-## Medkits and Autodocs
+# Medkits and Autodocs
 - Complex Action to apply medkit/autodoc
 - +modifier when treating character
 - Wireless unattended medkit: 2× device rating
 
-## Magical Healing
+# Magical Healing
 - Each hit heals one box of Physical damage (up to Force)
 - Cannot heal damage resulting from magical Drain
 
-## Stabilisation
+# Stabilisation
 - Box of damage every (Body) minutes
 - First Aid + Logic [Mental] (3) Test or Medicine + Logic [Mental] (3) Test
 - Situational modifiers apply
@@ -53,18 +55,18 @@
 - If fail, can retry at cumulative -2 modifier
 - Stabilise spell can be used to stabilise a character, Heal spell cannot
 
-Situation | Modifier
---------- |:--------:
-Good conditions (sterilised med facility) | +0
-Average conditions (indoors) | -1
-Poor conditions (street or wilderness) | -2
-Bad conditions (combat, bad weather, swamp) | -3
-Terrible conditions (fire, severe storm) | -4
-No medical supplies | -3
-Improvised medical supplies | -1
-Wireless medkit/autodoc | +Rating
-Applying medical care remotely through medkit/autodoc | -2
-Assistance | As Teamwork Test
-Uncooperative patient | -2
-Patient is Awakened or Emerged | -2
-Patient has implants | -1 per 2 full points of lost Essence
+| Situation                                             |               Modifier               |
+| ----------------------------------------------------- |:------------------------------------:|
+| Good conditions (sterilised med facility)             |                  +0                  |
+| Average conditions (indoors)                          |                  -1                  |
+| Poor conditions (street or wilderness)                |                  -2                  |
+| Bad conditions (combat, bad weather, swamp)           |                  -3                  |
+| Terrible conditions (fire, severe storm)              |                  -4                  |
+| No medical supplies                                   |                  -3                  |
+| Improvised medical supplies                           |                  -1                  |
+| Wireless medkit/autodoc                               |               +Rating                |
+| Applying medical care remotely through medkit/autodoc |                  -2                  |
+| Assistance                                            |           As Teamwork Test           |
+| Uncooperative patient                                 |                  -2                  |
+| Patient is Awakened or Emerged                        |                  -2                  |
+| Patient has implants                                  | -1 per 2 full points of lost Essence |

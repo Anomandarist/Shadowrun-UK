@@ -1,11 +1,13 @@
-# ‘Rex’
+---
+title: ‘Rex’
+---
 
-## Description
+# Description
 
-Item | Description
----- | -----------
-Age |
-Location | Matrix
-Physical Description |
+| Item                 | Description |
+| -------------------- | ----------- |
+| Age                  |             |
+| Location             | Matrix      |
+| Physical Description |             |
 
-## Bio
+# Bio

@@ -1,11 +1,13 @@
-# Dominic Sharpe
+---
+title: Dominic Sharpe
+---
 
-## Description
+# Description
 
-Item | Description
----- | -----------
-Age | Late 40s
-Location | Cambridge
-Physical Description |
+| Item                 | Description |
+| -------------------- | ----------- |
+| Age                  | Late 40s    |
+| Location             | Cambridge   |
+| Physical Description |             |
 
-## Bio
+# Bio
