@@ -5,7 +5,7 @@
 			{%- if layout.subtitlesuffix == null -%}
 				<a href="{{ '/' | relative_url }}">{{ site.title }}</a>
 			{%- else -%}
-				<a href="{{ './' | relative_url }}">{{ site.title }}{{ layout.subtitlesuffix | prepend: ": "}}</a>
+				<a href="{{ '../' | relative_url }}">{{ site.title }}{{ layout.subtitlesuffix | prepend: ": "}}</a>
 			{%- endif -%}
 		{%- else -%}
 			{{ site.description }}
