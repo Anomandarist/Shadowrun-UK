@@ -3,9 +3,9 @@
 
 ---
 
-[Ammunition](Rules/Ammunition.md)
-[Barriers](Rules/Barriers.md)
-[Black Market](Rules/BlackMarket.md)
+[Ammunition](Rules/Ammunition.md)  
+[Barriers](Rules/Barriers.md)  
+[Black Market](Rules/BlackMarket.md)  
 [Downtime Advancement](Rules/DowntimeAdvancement.md)  
 [Healing](Rules/Healing.md)  
 [HTR Response Time](Rules/HTRResponseTime.md)  
