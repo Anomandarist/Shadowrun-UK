@@ -12,6 +12,7 @@
 [Initiative](Rules/Initiative.md)  
 [Interrupt Actions](Rules/InterruptActions.md)  
 [Metatypes](Rules/Metatypes.md)  
+[Run Rewards](Rules/RunRewards.md)  
 [Social Tests](Rules/SocialTests.md)  
 [Technomancers](Rules/Technomancers.md)
 
