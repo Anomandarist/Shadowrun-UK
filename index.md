@@ -3,6 +3,7 @@
 
 ---
 
+[Barriers](Rules/Barriers.md)
 [Downtime Advancement](Rules/DowntimeAdvancement.md)  
 [Healing](Rules/Healing.md)  
 [HTR Response Time](Rules/HTRResponseTime.md)  
