@@ -18,7 +18,9 @@
 
 ---
 
-[Magic](Rules/Magic/)
+### Magic
+
+[Illusion](Rules/Magic/Illusion.md)
 
 ---
 
