@@ -18,7 +18,7 @@
 
 ---
 
-[Magic](Magic/)
+[Magic](Rules/Magic/)
 
 ---
 
