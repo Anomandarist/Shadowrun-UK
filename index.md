@@ -11,6 +11,7 @@
 [HTR Response Time](Rules/HTRResponseTime.md)  
 [Initiative](Rules/Initiative.md)  
 [Interrupt Actions](Rules/InterruptActions.md)  
+[Magic - Illusion](Rules/Magic_Illusion.md)  
 [Metatypes](Rules/Metatypes.md)  
 [Run Rewards](Rules/RunRewards.md)  
 [Social Tests](Rules/SocialTests.md)  
