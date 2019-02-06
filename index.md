@@ -27,6 +27,7 @@
 ### Matrix
 
 [Actions](Rules/Matrix/Actions.md)  
+[Noise](Rules/Matrix/Noise.md)  
 [Technomancers](Rules/Matrix/Technomancers.md)
 
 ---
