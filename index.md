@@ -14,13 +14,19 @@
 [Metatypes](Rules/Metatypes.md)  
 [Run Rewards](Rules/RunRewards.md)  
 [Social Tests](Rules/SocialTests.md)  
-[Technomancers](Rules/Technomancers.md)
+
 
 ---
 
 ### Magic
 
 [Illusion](Rules/Magic/Illusion.md)
+
+---
+
+### Matrix
+
+[Technomancers](Rules/Matrix/Technomancers.md)
 
 ---
 
