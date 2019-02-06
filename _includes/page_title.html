@@ -2,9 +2,10 @@
 	<h1>{{ page.title | default: site.title }}</h1>
 	<p>
 		{%- if page.title != null -%}
-			{{ site.title }}
-			{%- if layout.subtitlesuffix != null -%}
-				{{ layout.subtitlesuffix | prepend: ": "}}
+			{%- if layout.subtitlesuffix == null -%}
+				<a href="{{ '/' | relative_url }}">{{ site.title }}</a>
+			{%- else -%}
+				<a href="{{ layout.backlink | relative_url }}">{{ site.title }}: {{ layout.subtitlesuffix }}</a>
 			{%- endif -%}
 		{%- else -%}
 			{{ site.description }}
