@@ -26,7 +26,7 @@
 
 ### Matrix
 
-[Actions](Rules/Matrix/Actions.md)
+[Actions](Rules/Matrix/Actions.md)  
 [Technomancers](Rules/Matrix/Technomancers.md)
 
 ---
