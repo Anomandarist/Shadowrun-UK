@@ -28,6 +28,7 @@
 
 [Actions](Rules/Matrix/Actions.md)  
 [Device Ratings](Rules/Matrix/DeviceRatings.md)  
+[Hosts](Rules/Matrix/Hosts.md)  
 [Noise](Rules/Matrix/Noise.md)  
 [Technomancers](Rules/Matrix/Technomancers.md)
 
