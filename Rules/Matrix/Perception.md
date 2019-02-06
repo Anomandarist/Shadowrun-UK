@@ -1,7 +1,7 @@
 ---
 title: Matrix Perception
 subtitlesuffix: Matrix Actions
-backlink: /Rules/Matrix/Actions.md
+backlink: /Rules/Matrix/Actions.html
 ---
 
 Each hit can:
