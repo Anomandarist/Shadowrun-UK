@@ -194,3 +194,11 @@ Run Expenses:
 SVD + Ammo £1,680
 Gorepak £400
 Titania Paint Job £500
+
+### After the Run
+
+- Vlad goes to visit haematoma
+- Trying to pay off his debt
+- Haematoma refuses to accept the payment
+- Demands a final task off him - delayed till a later date
+- No interest until then
