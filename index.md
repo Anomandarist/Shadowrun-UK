@@ -4,10 +4,10 @@
 ---
 
 [Ammunition](Rules/Ammunition.md)  
-[Firearms](Rules/Firearms.md)  
 [Barriers](Rules/Barriers.md)  
 [Black Market](Rules/BlackMarket.md)  
 [Downtime Advancement](Rules/DowntimeAdvancement.md)  
+[Firearms](Rules/Firearms.md)  
 [Healing](Rules/Healing.md)  
 [HTR Response Time](Rules/HTRResponseTime.md)  
 [Initiative](Rules/Initiative.md)  
