@@ -4,6 +4,7 @@
 ---
 
 [Ammunition](Rules/Ammunition.md)  
+[Firearms](Rules/Firearms.md)
 [Barriers](Rules/Barriers.md)  
 [Black Market](Rules/BlackMarket.md)  
 [Downtime Advancement](Rules/DowntimeAdvancement.md)  
