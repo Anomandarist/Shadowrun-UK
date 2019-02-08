@@ -197,8 +197,8 @@ Titania Paint Job £500
 
 ### After the Run
 
-- Vlad goes to visit haematoma
+- Vlad goes to visit Haematoma
 - Trying to pay off his debt
 - Haematoma refuses to accept the payment
-- Demands a final task off him - delayed till a later date
+- Demands a final task off him - delayed until a later date
 - No interest until then

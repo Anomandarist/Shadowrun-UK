@@ -28,16 +28,16 @@ title: Getting Ahead in Life
 - Vlad gets a message from Haematoma for one last job
 - Crew reluctantly agrees to go along
 - Wants us to make a delivery and message to some of his colleagues
-- Offering 50K
+- Offering £50k
 - Vlad offers to pay the team to kill him, they turn him down for now
 - Vlad agrees to the job under duress and leaves
 - Will message Vlad for pick up
 - Delivery is for tomorrow
-- Jack negotiated an extra 10K upfront
+- Jack negotiated an extra £10k upfront
 - Sanguine placed a cookie on Haematoma’s persona
 
 - Team meeting
-	- Discussed sanguines mafia contact
+	- Discussed Sanguine’s mafia contact
 	- Passing on info about Haematoma  
 	- Haematoma is next in line to take over the mafia council
 	- Discussed odds of haematoma screwing us over
@@ -92,7 +92,7 @@ Activating the commlink
 - Jack is recording the opening
 - Severed head
 - Benito draws a gun and everyone else in the restaurant stands up
-- Benito opens fire on sanguine
+- Benito opens fire on Sanguine
 	- SnS - Knocked Prone (5S)
 
 - Vlad- Messages Benito to try and stop him
@@ -101,13 +101,13 @@ Activating the commlink
 Hearing the gunshot Smith and Loki head into the back
 - Gun down one guy in the kitchen and are engaged in melee
 
-- Vlad persuades Benito to cease gunplay and try to explain situation.
+- Vlad persuades Benito to cease gunplay and try to explain situation
 - We all sit down
 - Guns on the bar/tables
 - Poured drinks
 - Sanguine investigates the head and box- head turns out to have a camera of sorts in the left eye- it is removed to a fridge
 - Tortuous conversation goes nowhere so we leave.  Benito suggests we come back when we’re more ‘trustworthy’...
-- Vlad contacts Haematoma for payment, asked to return to collect.
+- Vlad contacts Haematoma for payment, asked to return to collect
 
 - Sanguine attempts to contact Fabiana
 

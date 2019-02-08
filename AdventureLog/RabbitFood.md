@@ -25,38 +25,38 @@ title: Rabbit Food
 - Team visits the shop for the meet
 - It appears to be run by a giant rabbit
 	- Illusion. Only Vlad sees through it
-	- The others probably guess when Smith's hand passes through the rabbit's ears  
+	- The others probably guess when Smith’s hand passes through the rabbit’s ears
 - Introduces himself as Mr Carrotz
-- Wants us to make a reservation at the Hard Rocket Cafe (vegetarian restaurant) for his children's birthday party on the 25/04/2076  
+- Wants us to make a reservation at the Hard Rocket Cafe (vegetarian restaurant) for his children’s birthday party on the 25/04/2076 (Saturday)
 - Seems to be very scared of his wife, a police officer
-- Offering £10000 each  
+- Offering £10,000 each
 	- Team is suspicious
 - Restaurant is high/luxury class
-- Has a very long waiting list  
-- He needs the only large table which is currently booked for that date  
+- Has a very long waiting list
+- He needs the only large table which is currently booked for that date
 - Jack makes a promise...
 
-- Stealth tag is slipped onto the Johnson   (Later reveals his home location in a luxury lifestyle area)
-- A matrix search reveals that they only take credsticks or cash  
+- Stealth tag is slipped onto the Johnson (Later reveals his home location in a luxury lifestyle area)
+- A matrix search reveals that they only take credsticks or cash
 
-- Team travels to the location to investigate  
-- Jack enters the restaurant  
+- Team travels to the location to investigate
+- Jack enters the restaurant
 	- Attempts to book a table
 	- Very booked up
 	- No computing used in here, they make bookings in a physical book
 
 - Vlad enters
 	- Attempts to book a table  
-	- Videoing the book  
+	- Videoing the book
 	- Attempts a bribe, fails but looks like that is due to the person who is currently booked in
 		- Adrianna Scozzofava
 		- Related to Vittoria Scozzofava - Mafia
 
 ### 18/04/2076 (Saturday)
 
-- Joined by Sanguine  
+- Joined by Sanguine
 	- Hacked the host
-	- No digital reservation format  
+	- No digital reservation format
 
 - Loki goes in to the restaurant
 	- Tries to persuade/bribe the restaurant (Pierce Dale) to cancel some bookings and push tables together
@@ -64,7 +64,7 @@ title: Rabbit Food
 	- Possible success?
 - Returned after Lunch
 	- Has cancelled the tables and is currently claiming the restaurant is closed on that date
-	- Takes 11k bribe
+	- Takes £11k bribe
 	- Then reveals that one table is requesting to be re-added if the restaurant is opened
 	- Waiting list - Olivia Molina
 
@@ -82,9 +82,9 @@ title: Rabbit Food
 ### 21/04/2076 (Tuesday)
 
 - Received money from Mr Carrotz
-- £5800 each after expenses (£11000 bribe)
+- £5,800 each after expenses (£11,000 bribe)
 
 ### 25/04/2076 (Saturday)
 
 - Day of the meal
-- Jack visits - apparent double booking leads to Mr Carrots leaving before their meal
+- Jack visits - apparent double booking leads to Mr Carrotz leaving before their meal
