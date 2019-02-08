@@ -11,7 +11,8 @@ title: Milk Run
 | Run     | 31/10/2075 (Thursday) |
 | Pay     | £3,000 each, 3 Karma  |
 
-## Details
+## Details  
+
 - Goat did delivery by boat to Lockdown, who the runners are guarding
 - Daggerbacks were active in the area
 - Runners levitated Lockdown’s motorbike over the river
