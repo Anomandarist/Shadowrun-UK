@@ -15,5 +15,5 @@ layout: default
 | 09/02/2076 (Sunday) - 20/02/2076 (Thursday)    | [A Different Kind of Wetwork](ADifferentKindOfWetwork.md) |
 | 16/03/2076 (Monday) - 02/04/2076 (Thursday)    | [Putting on a Show](PuttingOnAShow.md)                    |
 | 17/04/2076 (Friday) - 21/04/2076 (Tuesday)     | [Rabbit Food](RabbitFood.md)                              |
-| 01/05/2076 (Friday) - 02/05/2076 (Saturday)    | [Getting ahead in life](GettingAheadinLife.md)            |
-| 08/05/2076 (Friday) - 15/05/2076 (Friday)      | [Dining in Style](DininginStyle.md)                       |
+| 01/05/2076 (Friday) - 02/05/2076 (Saturday)    | [Getting Ahead in Life](GettingAheadInLife.md)            |
+| 08/05/2076 (Friday) - 15/05/2076 (Friday)      | [Dining in Style](DiningInStyle.md)                       |
