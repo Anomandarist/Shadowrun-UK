@@ -12,7 +12,7 @@
 [HTR Response Time](Rules/HTRResponseTime.md)  
 [Initiative](Rules/Initiative.md)  
 [Interrupt Actions](Rules/InterruptActions.md)  
-[Martial Arts](Rules/MartialArts/md)  
+[Martial Arts](Rules/MartialArts.md)  
 [Metatypes](Rules/Metatypes.md)  
 [Run Rewards](Rules/RunRewards.md)  
 [Social Tests](Rules/SocialTests.md)  
