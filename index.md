@@ -12,10 +12,10 @@
 [HTR Response Time](Rules/HTRResponseTime.md)  
 [Initiative](Rules/Initiative.md)  
 [Interrupt Actions](Rules/InterruptActions.md)  
+[Martial Arts](Rules/MartialArts/md)  
 [Metatypes](Rules/Metatypes.md)  
 [Run Rewards](Rules/RunRewards.md)  
 [Social Tests](Rules/SocialTests.md)  
-
 
 ---
 
@@ -34,6 +34,8 @@
 [Technomancers](Rules/Matrix/Technomancers.md)
 
 ---
+
+### Miscellaneous
 
 [Chummer Source Book Settings](Miscellaneous/ChummerSourceBook.md)  
 [Links](Miscellaneous/Links.md)  
