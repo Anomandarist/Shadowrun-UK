@@ -7,7 +7,6 @@
 [Ammunition](Rules/Ammunition.md)  
 [Barriers](Rules/Barriers.md)  
 [Black Market](Rules/BlackMarket.md)  
-[Called Shots](Rules/CalledShots.md)
 [Combat Modifiers](Rules/CombatModifiers.md)
 [Downtime Advancement](Rules/DowntimeAdvancement.md)
 [Elemental Damage](Rules/ElementalDamage.md)
