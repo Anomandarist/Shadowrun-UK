@@ -5,6 +5,8 @@ title: Intrusion Countermeasures (IC)
 - All IC actions are Complex actions
 - All Dice rolls are Host Rating ×2
 - All Limits are Attack, except for Patrol IC, which is Data Processing
+- Condition Monitor: 8 + Host Rating / 2
+- Initiative: Data Processing + INT + 4d6
 
 |        IC         |      Opposed By       | Marks Required | Description                                                                                                                                                                                        |
 |:-----------------:|:---------------------:|:--------------:| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
