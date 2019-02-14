@@ -35,10 +35,10 @@ title: Elemental Damage
 	- Roll Armour + Fire Resistance - Fire AP (Net hits rolled on the fire based attack)
 	- When something initially catches fire the fire has a DV of 3
 	- Damage is taken at the end of the combat turn and the damage increases by 1 at the start of each subsequent combat turn until the item is put out or destroyed
-	- To put out the fire: AGI + INT test. Reducing the fire's DV by 1 for each hit
+	- To put out the fire: AGI + INT test. Reducing the fire’s DV by 1 for each hit
 
-|    Type of Fire    |      AP       |
-|:------------------:|:-------------:|
-|     Open flame     |      -2       |
-|  Fire based spell  | - Spell force |
-| Flame based weapon |      -6       |
+|    Type of Fire    |      AP      |
+|:------------------:|:------------:|
+|     Open flame     |      -2      |
+|  Fire based spell  | -Spell force |
+| Flame based weapon |      -6      |

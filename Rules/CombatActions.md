@@ -1,5 +1,5 @@
 ---
-title: Actions
+title: Combat Actions
 ---
 
 # Free Actions
@@ -33,7 +33,7 @@ title: Actions
 | Reckless spell casting  | Cast a spell as a simple action                                                       |
 | Shift perception        | Shift perception to or from astral                                                    |
 | Stand up                | If wounded must succeed on BOD + WIL (2)                                              |
-| Take aim                | + 1 dice pool modifier or +1 accuracy. Maximum bonus = WIL/2 (round up)               |
+| Take aim                | + 1 dice pool modifier or +1 accuracy.  Maximum bonus = WIL/2 (round up)              |
 | Take cover              |                                                                                       |
 | Use simple device       |                                                                                       |
 
@@ -53,7 +53,7 @@ title: Actions
 
 # Special Actions
 
-**Interception**
+#### Interception
 - [Interrupt action](InterruptActions.md)
 - Attempting to pass within 1m + 1m per point of reach of an opponent presents the opportunity to be intercepted
 - At the cost of 5 initiative the opponent may make a melee attack
@@ -61,5 +61,5 @@ title: Actions
 - Prone combatants cannot intercept
 
 - An interception can be avoided at the cost of a complex action
-	- By making a AGI + Gymnastics (1) [Physical] test
-	- Each hit above the threshold allows movement past one opponent 
+	- By making a Gymnastics + AGI [Physical] (1) test
+	- Each hit above the threshold allows movement past one opponent

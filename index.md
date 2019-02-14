@@ -3,13 +3,13 @@
 
 ---
 
-[Actions](Rules/Actions.md)
 [Ammunition](Rules/Ammunition.md)  
 [Barriers](Rules/Barriers.md)  
 [Black Market](Rules/BlackMarket.md)  
-[Combat Modifiers](Rules/CombatModifiers.md)
-[Downtime Advancement](Rules/DowntimeAdvancement.md)
-[Elemental Damage](Rules/ElementalDamage.md)
+[Combat Actions](Rules/CombatActions.md)  
+[Combat Modifiers](Rules/CombatModifiers.md)  
+[Downtime Advancement](Rules/DowntimeAdvancement.md)  
+[Elemental Damage](Rules/ElementalDamage.md)  
 [Firearms](Rules/Firearms.md)  
 [Healing](Rules/Healing.md)  
 [HTR Response Time](Rules/HTRResponseTime.md)  

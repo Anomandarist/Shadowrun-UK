@@ -13,42 +13,44 @@ title: Combat Modifiers
 | Moderate rain/fog/smoke |   Dim light/moderate glare    |  Moderate winds   |  Long   |    -3    |
 |  Heavy rain/fog/smoke   | Total darkness/blinding glare |   Strong winds    | Extreme |    -6    |
 
-A combination of >2 modifiers at the -6 level is represented by a  -10
+- Take the highest level if multiple columns
+- If two highest, then take modifier one worse
+- A combination of >2 modifiers at the -6 level is represented by a  -10
 
 ## Situational Modifiers
 
-| Situation                                      |      Modifier       | Notes |
-| ---------------------------------------------- |:-------------------:| ----- |
-| Blind fire                                     |         -6          |       |
-| Firing from a moving vehicle                   |         -2          |       |
-| Attacker in melee combat                       |         -3          |       |
-| Attacker running                               |         -2          |       |
-| Attacker using offhand weapon                  |         -2          |       |
-| Attacker firing from cover with imaging device |         -3          |       |
-| Attacker wounded                               |  - Wound penalties  |       |
-| Recoil                                         | - cumulative recoil |       |
+| Situation                                      |      Modifier      | Notes |
+| ---------------------------------------------- |:------------------:| ----- |
+| Blind fire                                     |         -6         |       |
+| Firing from a moving vehicle                   |         -2         |       |
+| Attacker in melee combat                       |         -3         |       |
+| Attacker running                               |         -2         |       |
+| Attacker using offhand weapon                  |         -2         |       |
+| Attacker firing from cover with imaging device |         -3         |       |
+| Attacker wounded                               |  -Wound penalties  |       |
+| Recoil                                         | -Cumulative recoil |       |
 
 
 # Melee Attack Modifiers
 
 ## Positive Modifiers
 
-| Situation                       | Modifier | Notes                                                                            |
-| ------------------------------- |:--------:| -------------------------------------------------------------------------------- |
-| Charge attack                   |    +2    | Made when attacker is running, ignore the normal -2 from running                 |
-| Character has superior position |    +2    | At GMs discretion. (E.g. Attacking from behind or above/from better footing etc) |
-| Opponent prone                  |    +1    |                                                                                  |
-| Touch only attack               |    +2    | Touch only attacks do not benefit from net hits                                  |
-| Friends in melee                |    +1    |                                                                                  |
+| Situation                       | Modifier | Notes                                                                             |
+| ------------------------------- |:--------:| --------------------------------------------------------------------------------- |
+| Charge attack                   |    +2    | Made when attacker is running, ignore the normal -2 from running                  |
+| Character has superior position |    +2    | At GMs discretion.  (e.g. Attacking from behind or above/from better footing etc) |
+| Opponent prone                  |    +1    |                                                                                   |
+| Touch only attack               |    +2    | Touch only attacks do not benefit from net hits                                   |
+| Friends in melee                |    +1    |                                                                                   |
 
 ## Negative Modifiers
 
-| Situation                     |     Modifier      | Notes                                                                        |
-| ----------------------------- |:-----------------:| ---------------------------------------------------------------------------- |
-| Attacker prone                |        -1         |                                                                              |
-| Attacker using offhand weapon |        -2         |                                                                              |
-| Environmental modifiers       |     As above      | Only light and visibility, ignore if affecting attacker and defender equally |
-| Attacker wounded              | - wound penalties |                                                                              |
+| Situation                     |     Modifier     | Notes                                                                        |
+| ----------------------------- |:----------------:| ---------------------------------------------------------------------------- |
+| Attacker prone                |        -1        |                                                                              |
+| Attacker using offhand weapon |        -2        |                                                                              |
+| Environmental modifiers       |     As above     | Only light and visibility, ignore if affecting attacker and defender equally |
+| Attacker wounded              | -Wound penalties |                                                                              |
 
 # Defence Modifiers
 
@@ -66,9 +68,9 @@ A combination of >2 modifiers at the -6 level is represented by a  -10
 
 ## Negative Modifiers
 
-| Situation                 |     Modifier      | Notes                    |
-| ------------------------- |:-----------------:| ------------------------ |
-| Defender prone            |        -2         | Melee + Ranged within 5m |
-| Attacker has longer reach | -1 per net reach  | Melee only               |
-| Defender in melee         |        -3         |                          |
-| Defender wounded          | - Wound penalties |                          |
+| Situation                 |     Modifier     | Notes                    |
+| ------------------------- |:----------------:| ------------------------ |
+| Defender prone            |        -2        | Melee + Ranged within 5m |
+| Attacker has longer reach | -1 per net reach | Melee only               |
+| Defender in melee         |        -3        |                          |
+| Defender wounded          | -Wound penalties |                          |

@@ -165,4 +165,4 @@ title: Firearms
 - On a critical glitch the weapon might be accidentally discharged or dropped out of reach
 
 - Only properly holstered weapons can be quick drawn
-- Two weapons may be quick drawn simultaneously but the dice pool is split 
+- Two weapons may be quick drawn simultaneously but the dice pool is split
