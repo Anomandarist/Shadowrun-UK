@@ -111,3 +111,58 @@ title: Firearms
 - Once the cumulative recoil exceeds the characters recoil compensation the excess recoil is applied as a penalty to the characters dice pool for attacks made with firearms
 
 - Vehicle and drone mounted weapons have recoil compensation equal to the body of the vehicle + RC of the weapon
+
+## Reloading
+
+| Reloading Method      | Result                           | Action  |
+| --------------------- | -------------------------------- |:-------:|
+| Removable clip (c)    | Remove or insert clip            | Simple  |
+| Speed loader          | Completely load revolver         | Complex |
+| Fill clip             | Insert AGI rounds into weapon    | Complex |
+| Break action (b)      | Insert 2 rounds                  | Complex |
+| Belt fed (belt)       | Remove or insert belt            | Complex |
+| Fill belt/drum        | Insert AGI rounds into belt/drum | Complex |
+| Internal magazine (m) | Insert AGI rounds                | Complex |
+| Muzzle loading (ml)   | Load 1 muzzle tube               | Complex |
+| Cylinder (cy)         | Insert AGI rounds                | Complex |
+| Drum (d)              | Remove or insert drum            | Complex |
+
+## Ranges
+
+| Weapon              | Short +0 | Medium -1 | Long -3 | Extreme -6 |
+| ------------------- |:--------:|:---------:|:-------:|:----------:|
+| Taser               |   0-5    |   6-10    |  11-15  |   16-20    |
+| Holdout pistol      |   0-5    |   6-15    |  16-30  |   31-50    |
+| Light pistol        |   0-5    |   6-15    |  16-30  |   31-50    |
+| Heavy pistol        |   0-5    |   6-20    |  21-40  |   41-60    |
+| Machine pistol      |   0-5    |   6-15    |  16-30  |   31-50    |
+| SMG                 |   0-10   |   11-40   |  41-80  |   81-150   |
+| Assault Rifle       |   0-25   |  26-150   | 151-350 |  351-550   |
+| Shotgun (f)         |   0-15   |   16-30   |  31-45  |   45-60    |
+| Shotgun (slug)      |   0-10   |   11-40   |  41-80  |   81-150   |
+| Sniper rifle        |   0-50   |  51-350   | 351-800 |  801-1500  |
+| LMG                 |   0-25   |  26-300   | 201-400 |  401-800   |
+| MMG/HMG             |   0-40   |  41-250   | 251-750 |  751-1200  |
+| Assault cannon      |   0-50   |  51-300   | 301-750 |  751-1500  |
+| Grenade launcher    |   5-50   |  51-100   | 101-150 |  151-500   |
+| Missile launcher    |  20-70   |  71-150   | 151-450 |  451-1500  |
+| Bow                 |  0-STR   |  STR x10  | STR x30 |  STR x60   |
+| Light crossbow      |   0-6    |   7-24    |  25-60  |   61-120   |
+| Medium crossbow     |   0-9    |   10-36   |  37-90  |   91-150   |
+| Heavy crossbow      |   0-15   |   16-45   | 46-120  |  121-180   |
+| Thrown knife        |  0-STR   |  STR x2   | STR x3  |   STR x5   |
+| Shuriken            |  0-STR   |  STR x2   | STR x5  |   STR x7   |
+| Standard grenade    | 0-STR x2 |  STR x4   | STR x6  |  STR x10   |
+| Aerodynamic grenade | 0-STR x2 |  STR x4   | STR x8  |  STR x15   |
+
+## Quick Draw
+
+- A character may attempt to quick draw a pistol sized weapon or small throwing weapon
+- Make a Weapon skill + REA [Physical] (3) test
+- On success the character draws the weapon and fires it with a simple action
+- On a failure the weapon is drawn but cannot be fired in the same action
+- On a glitch the weapon is not drawn or is dropped and no further actions can be taken
+- On a critical glitch the weapon might be accidentally discharged or dropped out of reach
+
+- Only properly holstered weapons can be quick drawn
+- Two weapons may be quick drawn simultaneously but the dice pool is split
