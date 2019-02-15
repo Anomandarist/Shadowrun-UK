@@ -3,22 +3,27 @@
 
 ---
 
-[Ammunition](Rules/Ammunition.md)  
-[Barriers](Rules/Barriers.md)  
 [Black Market](Rules/BlackMarket.md)  
-[Combat Actions](Rules/CombatActions.md)  
-[Combat Modifiers](Rules/CombatModifiers.md)  
 [Downtime Advancement](Rules/DowntimeAdvancement.md)  
-[Elemental Damage](Rules/ElementalDamage.md)  
-[Firearms](Rules/Firearms.md)  
 [Healing](Rules/Healing.md)  
 [HTR Response Time](Rules/HTRResponseTime.md)  
-[Initiative](Rules/Initiative.md)  
-[Interrupt Actions](Rules/InterruptActions.md)  
-[Martial Arts](Rules/MartialArts/md)  
 [Metatypes](Rules/Metatypes.md)  
 [Run Rewards](Rules/RunRewards.md)  
 [Social Tests](Rules/SocialTests.md)  
+
+---
+
+### Combat
+
+[Actions](Rules/Combat/Actions.md)  
+[Ammunition](Rules/Combat/Ammunition.md)  
+[Barriers](Rules/Combat/Barriers.md)  
+[Elemental Damage](Rules/Combat/ElementalDamage.md)  
+[Firearms](Rules/Combat/Firearms.md)  
+[Initiative](Rules/Combat/Initiative.md)  
+[Interrupt Actions](Rules/Combat/InterruptActions.md)  
+[Martial Arts](Rules/Combat/MartialArts.md)  
+[Modifiers](Rules/Combat/Modifiers.md)
 
 ---
 
@@ -33,6 +38,7 @@
 [Actions](Rules/Matrix/Actions.md)  
 [Device Ratings](Rules/Matrix/DeviceRatings.md)  
 [Hosts](Rules/Matrix/Hosts.md)  
+[Intrusion Countermeasures](Rules/Matrix/IntrusionCountermeasures.md)  
 [Noise](Rules/Matrix/Noise.md)  
 [Technomancers](Rules/Matrix/Technomancers.md)
 

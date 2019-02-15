@@ -11,3 +11,8 @@ defaults:
             path: "Contacts"
         values:
             layout: contacts
+    -
+        scope:
+            path: "Miscellaneous"
+        values:
+            layout: miscellaneous
