@@ -30,7 +30,7 @@
 ### Magic
 
 [Illusion](Rules/Magic/Illusion.md)  
-[Spell Search](Rules/Magic.SpellSearch.md)
+[Spell Search](Rules/Magic/SpellSearch.md)
 
 ---
 
