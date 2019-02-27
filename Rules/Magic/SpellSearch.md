@@ -42,23 +42,28 @@ function SearchSpells() {
 		}
 
 		var SpellCategory = $(this).find("Category").text();
+		var SpellName = $(this).find("Name").text();
 		var SpellEffects = $(this).find("Effects").text();
 		var SpellType = $(this).find("Type").text();
 		var SpellRange = $(this).find("Range").text();
 		var SpellDamage = $(this).find("Damage").text();
+		var SpellDuration = $(this).find("Duration").text();
+		var SpellDrain = $(this).find("Drain").text();
+		var SpellSource = $(this).find("Source").text();
+		var SpellText = $(this).find("Text").text();
 
 		html += "<hr>"
 			+ "<table>"
 			+ "<tr><td>Category</td><td>" + SpellCategory + "</td></tr>"
-			+ "<tr><td>Name</td><td>" + $(this).find("Name").text() + "</td></tr>"
+			+ "<tr><td>Name</td><td>" + SpellName + "</td></tr>"
 			+ "<tr><td>Effects</td><td>" + SpellEffects + "</td></tr>"
 			+ "<tr><td>Type</td><td>" + SpellType + "</td></tr>"
 			+ "<tr><td>Range</td><td>" + SpellRange + "</td></tr>"
 			+ ((SpellDamage != "") ? "<tr><td>Damage</td><td>" + SpellDamage + "</td></tr>" : "")
-			+ "<tr><td>Duration</td><td>" + $(this).find("Duration").text() + "</td></tr>"
-			+ "<tr><td>Drain</td><td>" + $(this).find("Drain").text() + "</td></tr>"
-			+ "<tr><td>Source</td><td>" + $(this).find("Source").text() + "</td></tr>"
-			+ "<tr><td>Text</td><td>" + $(this).find("Text").text() + "</td></tr>";
+			+ "<tr><td>Duration</td><td>" + SpellDuration + "</td></tr>"
+			+ "<tr><td>Drain</td><td>" + SpellDrain + "</td></tr>"
+			+ "<tr><td>Source</td><td>" + SpellSource + "</td></tr>"
+			+ "<tr><td>Text</td><td>" + SpellText + "</td></tr>";
 
 		if (SpellCategory == "Combat") {
 			if (SpellEffects.includes("Direct")) {

@@ -1031,29 +1031,10 @@ Eyes of the Pack is a variant of Borrow Sense that only works with voluntary tar
 	<Drain>F-1</Drain>
 	<Source>SR5:SG</Source>
 	<Text>This spell instantly tailors clothing, transforming garments into any fashion the caster wishes. The net hits over the clothing’s object resistance (defense pool for the clothing can be between 6 and 9, depending on the complexity of the material and whether it interweaves electronics into the threads) measure the degree of style in the tailoring. The spell cannot change clothing’s protective value, only its cut, color, pattern, and fit. The weight of the clothing does not change, and it must cover approximately the same amount of area (for example, a jumpsuit can’t be converted into a bikini). The caster must touch the clothing.
-```+-----------------------------------------------------------------------------------------------+
-| NH | Results																																									|
-+-----------------------------------------------------------------------------------------------+
-|	1	| The tint of the color can change (e.g., dark blue to light blue, but not blue to				|
-|		 | green); minor adjustments such as mending bullet holes can also be performed						|
-+-----------------------------------------------------------------------------------------------+
-|	2	| Adjustments to the fit of the clothing can be made, but nothing drastic about the			 |
-|		 | nature of the clothes (for example, pants are still pants). Color can change slightly	 |
-|		 | (e.g., blue to green or purple, but not red).																					 |
-+-----------------------------------------------------------------------------------------------+
-|	3	| Full spectrum of color can be manipulated. Simple geometric patterns and designs can be |
-|		 | added, but nothing as elaborate as corporate logos or name tags. Modifications such as	|
-|		 | the addition or removal of pockets or pants to a skirt can be done. Repairs and				 |
-|		 | cleaning of the clothing can also be performed.																				 |
-+-----------------------------------------------------------------------------------------------+
-|	4+ | Clothing can be changed with enough specificity to mimic a uniform, provided enough		 |
-|		 | material is available. Color changes can help mimic missing accessories such as				 |
-|		 | buttons, labels, badges, ribbons, etc. These changes, however, are only convincing at a |
-|		 | distance if the physical accessories are not present. The closer a target gets to the	 |
-|		 | subject, the more likely they will notice the actual accessories are missing (a				 |
-|		 | gamemaster would call for a Perception Test to see if the per- son notices). Patterns	 |
-|		 | and designs on clothing can be as intricate as the magician desires.										|
-+-----------------------------------------------------------------------------------------------+```</Text>
+1 net hit: The tint of the color can change (e.g., dark blue to light blue, but not blue to green); minor adjustments such as mending bullet holes can also be performed
+2 net hits: Adjustments to the fit of the clothing can be made, but nothing drastic about the nature of the clothes (for example, pants are still pants). Color can change slightly (e.g. blue to green or purple, but not red)
+3 net hits: Full spectrum of color can be manipulated. Simple geometric patterns and designs can be added, but nothing as elaborate as corporate logos or name tags. Modifications such as the addition or removal of pockets or pants to a skirt can be done. Repairs and cleaning of the clothing can also be performed
+4+ net hits: Clothing can be changed with enough specificity to mimic a uniform, provided enough material is available. Color changes can help mimic missing accessories such as buttons, labels, badges, ribbons, etc. These changes, however, are only convincing at a distance if the physical accessories are not present. The closer a target gets to the subject, the more likely they will notice the actual accessories are missing (a gamemaster would call for a Perception Test to see if the person notices). Patterns and designs on clothing can be as intricate as the magician desires</Text>
 </Spell>
 <Spell>
 	<Category>Health</Category>
