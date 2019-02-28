@@ -63,7 +63,7 @@ function SearchSpells() {
 			+ "<tr><td>Duration</td><td>" + SpellDuration + "</td></tr>"
 			+ "<tr><td>Drain</td><td>" + SpellDrain + "</td></tr>"
 			+ "<tr><td>Source</td><td>" + SpellSource + "</td></tr>"
-			+ "<tr><td>Text</td><td>" + SpellText + "</td></tr>";
+			+ "<tr><td>Text</td><td style='white-space: pre-wrap;'>" + SpellText + "</td></tr>";
 
 		if (SpellCategory == "Combat") {
 			if (SpellEffects.includes("Direct")) {
