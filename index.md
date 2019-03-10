@@ -18,6 +18,7 @@
 [Actions](Rules/Combat/Actions.md)  
 [Ammunition](Rules/Combat/Ammunition.md)  
 [Barriers](Rules/Combat/Barriers.md)  
+[Called Shots](Rules/Combat/CalledShots.md)
 [Elemental Damage](Rules/Combat/ElementalDamage.md)  
 [Firearms](Rules/Combat/Firearms.md)  
 [Initiative](Rules/Combat/Initiative.md)  
