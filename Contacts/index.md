@@ -30,6 +30,33 @@ layout: default
 |                                          | [Rex](Rex.md)         |               |  1  |           1            | Matrix Forger                       | Hash           |
 |                                          | [Varnish](Varnish.md) | Elf           |  3  |           3            | Fence                               | Pascal         |
 
+# Connection Rolls
+
+| Proficiency | Roll            |
+|:-----------:| --------------- |
+|    High     | 12 + Connection |
+|   Medium    | 9 + Connection  |
+|     Low     | 6 + Connection  |
+
+# Knowledge Tests
+
+- Loyalty Rating in hits information for free
+- Compromising or suspicious information, may require negotiation test against the Contact with a bonus equal to their Loyalty Rating
+
+# Services and Favours
+
+- Typically a Contact is capable of performing services up to their Loyalty Rating
+- Higher Services, or endanger or compromise Contact, may need Negotiation test with a bonus equal to their Loyalty Rating
+
+| Rating | Classification | Examples                                                                                                                                     |
+|:------:|:--------------:| -------------------------------------------------------------------------------------------------------------------------------------------- |
+|   1    |     Minor      | Deliver a message to someone.  Provide access to a low-level restricted area such as an airport boarding area or police station              |
+|   2    |    Low Risk    | Loan use of specialized equipment up to £5,000 in value.  Corporate action requiring the signature of a first-line supervisor                |
+|   3    |     Medium     | Provide access to a mid-level restricted area, such as a standard corporate research lab                                                     |
+|   4    | Moderate Risk  | Loan use of specialized equipment up to £50,000 in value.  Corporate action requiring the signature of a middle manager                      |
+|   5    |    Serious     | Provide access to a high-level restricted area, such as FBI offices, AA megacorporate headquarters, or AAA regional headquarters             |
+|   6    |   Major Risk   | Loan use of specialized equipment up to £500,000 in value.  Corporate action requiring the signature of a senior manager or junior executive |
+
 # Connection Rating Table
 
 | Rating | Description                                                                                                                                               |
