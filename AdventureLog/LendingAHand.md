@@ -2,7 +2,7 @@
 title: Lending a Hand
 ---
 
-# 
+#
 
 | Johnson   | Papa                                       |
 | --------- | ------------------------------------------ |
@@ -25,19 +25,19 @@ title: Lending a Hand
 - Corp Johnson
 	- Male elf
 	- Nutcase
-	- Seems inexperienced- could be an act
+	- Seems inexperienced - could be an act
 	- Wants us to steal something from a ‘rival company’- Leopold Research Institute
 	- Another company (Lynx Cybernetics) wants them to steal something, his company (Phoenix Filming) wants to film it to make a trid
 
 - Wants to film us doing it…
-- Is prepared to offer £20K each for the job and £5k each extra for good footage
+- Is prepared to offer £20k each for the job and £5k each extra for good footage
 
 - Rejected the job
 - Started looking for alternatives
 
 ### 03/06/2076 (Wednesday)
 
-- Johnson is still looking- has spoken to Holly Kendrick
+- Johnson is still looking - has spoken to Holly Kendrick
 - Jack agrees to meet with him on the matrix
 - He’s not happy
 - Doesn’t offer any more money and leaves in a huff
@@ -45,7 +45,7 @@ title: Lending a Hand
 ### 09/06/2076 (Tuesday)
 
 - Papa contacts Smith
-	- "Wetwork" Security job
+	- “Wetwork” Security job
 	- Arion Advocates
 	- £15k each
 
@@ -56,7 +56,7 @@ title: Lending a Hand
 - Some detail on the other group
  	- At least 5 members
 	- Team fairly notorious for collateral damage including deaths
-	- They want them dead- Revenge?
+	- They want them dead - Revenge?
 	- Will pay 10% upfront
 
 - Sanguine contacts Dax to check that the team are not anarchists
@@ -92,24 +92,24 @@ title: Lending a Hand
 - Stairs lubricated
 - Breaching charge set up
 - Loki doing silly walks around the lab perimeter
-- 10pm-12.00pm Cleaners are advised not to service this floor; other movement is usual.
+- 10pm-12.00pm Cleaners are advised not to service this floor; other movement is usual
 
 - Morning: Workers come in and don’t heed our gunplay warnings, get frisked and moved on
-- Loki follows workers who are casing the lab back into their office, confronts them, they stun him a lot.
-- He survives by the skin of his teeth, messages people in a panic and extends his spurs and knifes a worker in the chest.
+- Loki follows workers who are casing the lab back into their office, confronts them, they stun him a lot
+- He survives by the skin of his teeth, messages people in a panic and extends his spurs and knifes a worker in the chest
 - Vlad runs to help and whips the worker standing behind Loki
 
 - Smith hears someone coming up the stairs
 	- Gets Sanguine to mark targets behind the wall
 	- Opens fire through the wall
 
-- Jack gets involved and summons his spirits to do so also.
-- Sanguine flicks to the CCTV showing the mess.
+- Jack gets involved and summons his spirits to do so also
+- Sanguine flicks to the CCTV showing the mess
 - Loki is a swing and a miss on the guy he is trying to spur into oblivion
 
 - Drones fly out of lift/stairs and try to strobe/noise Smith
 
-- Hackers messing with Vlad’s whip, retracting it.
+- Hackers messing with Vlad’s whip, retracting it
 - Sanguine identifies a decker two floors up
 - Vlad re-retracts it and gets back to work
 
@@ -119,9 +119,9 @@ title: Lending a Hand
 - Jacks spirit nauseates the troll before being attacked by an invisible mage
 
 - Loki and Jack are knocked unconscious in the melee before Vlad kills both of the attackers
-- Smith guns down the troll and chases after the adept who had retreated towards the mage. Seeing them outside the door to Sanguine's room he warned the technomancer
+- Smith guns down the troll and chases after the adept who had retreated towards the mage. Seeing them outside the door to Sanguine’s room he warned the technomancer
 
-- Emerging from the room, pistol in hand, Sanguine blew the head off the mage before being cut down by the adept's whip.
+- Emerging from the room, pistol in hand, Sanguine blew the head off the mage before being cut down by the adept’s whip
 - Vlad stimpatched Loki and Jack and headed upstairs to hunt for the enemy decker
 - Upstairs he ran into a huge troll wielding an osmium mace
 	- He is attacked and nearly killed
