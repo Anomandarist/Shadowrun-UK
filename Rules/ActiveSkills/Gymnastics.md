@@ -6,8 +6,7 @@ title: Gymnastics
 
 - Gymnastics is applied to assisted (with ropes/harnesses) and unassisted climbing
 - Climbing is a complex action
-- STR + Gymnastics [Physical] determines how far you move
-
+- Gymnastics + STR [Physical] determines how far you move
 
 | Situation                      | Movement Distance |
 | ------------------------------ |:-----------------:|
@@ -31,7 +30,7 @@ title: Gymnastics
 ### Rappelling
 
 - Simple action
-- BOD + Free fall [Physical] (2)
+- Free Fall + BOD [Physical] (2)
 - 20m per combat turn +1m per hit over the threshold
 - If another simple action is taken that phase you receive a -2 to the action and to the free fall test
 - Stopping requires another test
@@ -40,24 +39,24 @@ title: Gymnastics
 ### Failing a climbing or rappelling test
 
 - Failing automatically halts progress
-- Must make a STR + REA test to hold on.
+- Must make a STR + REA test to hold on
 	- Failure leads to falling, 20m per combat turn
 - During next action phase may attempt to stop with a STR + REA test (-2 modifier)
 - GM may allow a STR + REA test for other climbers to grab you
 - If the character has safety lines in place
 	- Test is made by the person who set the line up
-	- LOG + Free fall [Mental] (1/2 BOD of falling character)
+	- Free Fall + LOG [Mental] (1/2 BOD of falling character)
 	- Success leads to safety gear catching
 
 ## Jumping
 
 Horizontal
-- AGI + Gymnastics [Physical]
+- Gymnastics + AGI [Physical]
 - 1m per hit from standing jump
 - 2m per hit from running jump
-- Max jump distance is 1.5x AGI meters
+- Max jump distance is 1.5× AGI meters
 
 Vertical
-- AGI + Gymnastics [Physical]
+- Gymnastics + AGI [Physical]
 - 0.5m per hit
-- Max is 1.5x height
+- Max is 1.5× height

@@ -2,7 +2,7 @@
 title: Escape Artist
 ---
 
-- AGI + Escape Artist [Physical]
+- Escape Artist + AGI [Physical]
 - Threshold based on the type of restraints
 - Takes 1 min/number of hits over the threshold to escape on a successful test
 
@@ -14,8 +14,8 @@ title: Escape Artist
 | Containment manacles |     5     |
 | Reinforced material  |    +1     |
 
-| Situation                      |      Modifier      |
-| ------------------------------ |:------------------:|
-| Being watched                  |         -2         |
-| Being physically restrained    | - Restrainer's STR |
+| Situation                       |      Modifier      |
+| ------------------------------- |:------------------:|
+| Being watched                   |         -2         |
+| Being physically restrained     | - Restrainer’s STR |
 | Have lock-picks or cutting tool |         +2         |

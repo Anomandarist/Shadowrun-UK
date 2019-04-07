@@ -16,11 +16,11 @@
 
 ### Active Skills
 
-[Escape Artist](Rules/Active Skills/EscapeArtist.md)
-[Gymnastics](Rules/Active Skills/Gymnastics.md)
-[Running](Rules/Active Skills/Running.md)
-[Swimming](Rules/Active Skills/Swimming.md)
-[Tracking](Rules/Active Skills/Tracking.md)
+[Escape Artist](Rules/ActiveSkills/EscapeArtist.md)  
+[Gymnastics](Rules/ActiveSkills/Gymnastics.md)  
+[Running](Rules/ActiveSkills/Running.md)  
+[Swimming](Rules/ActiveSkills/Swimming.md)  
+[Tracking](Rules/ActiveSkills/Tracking.md)
 
 ---
 
