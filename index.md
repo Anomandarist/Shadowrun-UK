@@ -14,6 +14,16 @@
 
 ---
 
+### Active Skills
+
+[Escape Artist](Rules/Active Skills/EscapeArtist.md)
+[Gymnastics](Rules/Active Skills/Gymnastics.md)
+[Running](Rules/Active Skills/Running.md)
+[Swimming](Rules/Active Skills/Swimming.md)
+[Tracking](Rules/Active Skills/Tracking.md)
+
+---
+
 ### Combat
 
 [Actions](Rules/Combat/Actions.md)  
