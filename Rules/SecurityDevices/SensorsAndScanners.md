@@ -2,9 +2,7 @@
 title: Sensors and Scanners
 ---
 
-# Sensors and Scanners
-
-## Lighting
+# Lighting
 
 - Usually controlled via wireless
 - Activate at pre-determined times or events
@@ -12,7 +10,7 @@ title: Sensors and Scanners
 - Switches subverted with Hardware + LOG [Mental] (5, 1 Combat Turn) Extended Test
 - Occasionally, gas-discharge lighting is used for high-wattage exterior lighting - takes 5 minutes to warm up
 
-## Alarms
+# Alarms
 
 - Alerts guards, security hackers/riggers, or remote monitoring services
 - May be silent or loud
@@ -20,7 +18,7 @@ title: Sensors and Scanners
 - Hardware + LOG [Mental] (5, 1 minute) Extended Test
 	- Though depending on design, may be more difficult
 
-## Wire
+# Wire
 
 - Triggers alarm
 - Monowire wires for damage
@@ -33,7 +31,7 @@ title: Sensors and Scanners
 | Monowire    |          3           |   8P   |
 | Electrified |          2           |   6S   |
 
-## Trip Beams
+# Trip Beams
 
 - Perimeter or across entrances
 - Laser emitters (visible or infrared), mirrors, and laser detectors
@@ -46,7 +44,7 @@ title: Sensors and Scanners
 	- Escape Artist + AGI [Physical] Test
 - Can also use calibrated system of mirrors to re-arrange the trip beam pattern
 
-## Pressure Pads, Pressure Mesh
+# Pressure Pads, Pressure Mesh
 
 - React to any amount of weight, or too much weight beyond a pre-programmed amount (2-5kg heavier than the heaviest authorised individual)
 - Mesh mainly used outdoors, but less sensitive
@@ -59,14 +57,14 @@ title: Sensors and Scanners
 - Can remove weight before triggering
 	- REA + INT - BOD (3) Test
 
-## Motion Sensors
+# Motion Sensors
 
 - Ultrasonic field
 - Can be detected using an ultrasonic sensor set to passive mode within 5m
 - Move <=0.5m/Combat Turn
 - And also succeed on Sneaking + AGI - extra Initiative Dice [Physical] (3) Test
 
-## Proximity Wire
+# Proximity Wire
 
 - aka capacitance wire
 - Detects electrical discharge of metahuman body (or animal) within 2m
@@ -74,7 +72,7 @@ title: Sensors and Scanners
 - Triggers alarm or turns on security cameras/measures
 - May be used in conjunction with motion sensors
 
-## Sound/Vibration Detectors
+# Sound/Vibration Detectors
 
 - Sensitive microphones
 - Can be programmed with pattern recognition algorithms to ignore some sounds/vibrations
@@ -82,7 +80,7 @@ title: Sensors and Scanners
 	- Spells that aid can also be used
 - Triangulating the sound’s origin can be achieved with multiple detectors
 
-## Cameras
+# Cameras
 
 - Standard visual to low-light, infrared, and ultraviolet
 - Have reflective infrared surfaces for infrared cameras to pick up on body heat around corners
@@ -90,7 +88,7 @@ title: Sensors and Scanners
 - Typical cameras on fixed or pivoting mounts can be easily seen if characters are looking for them
 - Smaller micro-cameras have threshold 3 on Perception test
 
-## Olfactory/Pheromone Scanners
+# Olfactory/Pheromone Scanners
 
 - aka chemical detection systems, chemsniffers
 - Roll chemsniffer’s Rating dice pool with threshold 2
@@ -108,12 +106,12 @@ title: Sensors and Scanners
 | Every 100 grams of plastique                |    +1    |
 | Item contained in plastic                   |    -1    |
 
-## Magnetic Anomaly Detectors (MADs)
+# Magnetic Anomaly Detectors (MADs)
 
 - Detects metallic substances
 - Rolls Device Rating, threshold 1
 
-## Millimetre Wave Detection (Cyberware Scanners)
+# Millimetre Wave Detection (Cyberware Scanners)
 
 - aka cyberware scanners
 - Process video taken in millimetre wave spectrum

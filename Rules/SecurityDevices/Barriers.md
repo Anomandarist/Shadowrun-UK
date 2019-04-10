@@ -2,8 +2,6 @@
 title: Barriers
 ---
 
-# Barriers
-
 - Prevent entry, escaping, deter surveillance, deter terrorist attacks
 - Climbing past fencetop wiring: Climbing + AGI (3) Test, otherwise take damage
 - Damage resisted by BOD + Armour
