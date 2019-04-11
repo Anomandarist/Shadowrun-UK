@@ -4,13 +4,16 @@ title: Character Demographic Randomiser
 
 <button onclick="Randomise()">Randomise</button>
 
-<table id="Character">
-</table>
+<div id="Character">
+</div>
 
 <script>
 function Randomise() {
 	var html = "";
 	var x;
+
+	html += "<hr>";
+	html += "<table>";
 
 	html += "<tr><td>Metatype</td><td>";
 	x = Math.random();
@@ -92,7 +95,9 @@ function Randomise() {
 	}
 	html += "</td></tr>";
 
-	$("table#Character").html(html);
+	html += "</table>";
+
+	$("#Character").prepend(html);
 }
 
 
