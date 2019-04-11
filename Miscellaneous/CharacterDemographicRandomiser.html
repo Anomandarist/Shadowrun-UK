@@ -64,7 +64,7 @@ function Randomise() {
 	} else if (x < (0.33 + 0.19 + 0.13 + 0.14)) {
 		html += "Unaffiliated/Other";
 	} else {
-		html += "None";
+		html += "-";
 	}
 	html += "</td></tr>";
 
@@ -88,10 +88,17 @@ function Randomise() {
 	} else if (x < (0.02 + 0.01)) {
 		html += "Technomancer";
 	} else {
-		html += "None";
+		html += "-";
 	}
 	html += "</td></tr>";
 
 	$("table#Character").html(html);
+}
+
+
+
+
+$(document).ready(function(){
+	$("button").button();
 }
 </script>
