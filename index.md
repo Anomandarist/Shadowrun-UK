@@ -3,6 +3,7 @@
 
 ---
 
+[Attribute Tests](Rules/AttributeTests.md)  
 [Black Market](Rules/BlackMarket.md)  
 [Downtime Advancement](Rules/DowntimeAdvancement.md)  
 [Healing](Rules/Healing.md)  
