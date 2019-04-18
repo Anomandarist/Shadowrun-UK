@@ -31,6 +31,7 @@
 [Called Shots](Rules/Combat/CalledShots.md)  
 [Elemental Damage](Rules/Combat/ElementalDamage.md)  
 [Firearms](Rules/Combat/Firearms.md)  
+[Hardened Armour](Rules/Combat/HardenedArmour.md)
 [Initiative](Rules/Combat/Initiative.md)  
 [Interrupt Actions](Rules/Combat/InterruptActions.md)  
 [Martial Arts](Rules/Combat/MartialArts.md)  
