@@ -9,7 +9,6 @@
 [HTR Response Time](Rules/HTRResponseTime.md)  
 [Metatypes](Rules/Metatypes.md)  
 [Run Rewards](Rules/RunRewards.md)  
-[Security Devices](Rules/SecurityDevices.md)  
 [Social Tests](Rules/SocialTests.md)  
 
 ---
@@ -57,8 +56,19 @@
 
 ---
 
+### Security Devices
+
+[Automated Defences](Rules/SecurityDevices/AutomatedDefences.md)  
+[Barriers](Rules/SecurityDevices/Barriers.md)  
+[Doors, Windows, and Locks](Rules/SecurityDevices/DoorsWindowsAndLocks.md)  
+[Landscaping](Rules/SecurityDevices/Landscaping.md)  
+[Sensors and Scanners](Rules/SecurityDevices/SensorsAndScanners.md)
+
+---
+
 ### Miscellaneous
 
+[Character Demographic Randomiser](Miscellaneous/CharacterDemographicRandomiser.html)  
 [Chummer Source Book Settings](Miscellaneous/ChummerSourceBook.md)  
 [Links](Miscellaneous/Links.md)  
 [Rule Clarifications and Houserules](Miscellaneous/RuleClarificationsAndHouserules.md)
