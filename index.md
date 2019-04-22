@@ -70,6 +70,7 @@
 
 [Character Demographic Randomiser](Miscellaneous/CharacterDemographicRandomiser.html)  
 [Chummer Source Book Settings](Miscellaneous/ChummerSourceBook.md)  
+[Games Master Dice Pools](Miscellaneous/GamesMasterDicePools.md)  
 [Links](Miscellaneous/Links.md)  
 [Rule Clarifications and Houserules](Miscellaneous/RuleClarificationsAndHouserules.md)
 
