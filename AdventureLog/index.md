@@ -18,3 +18,5 @@ layout: default
 | 01/05/2076 (Friday) - 02/05/2076 (Saturday)    | [Getting Ahead in Life](GettingAheadInLife.md)            |
 | 08/05/2076 (Friday) - 15/05/2076 (Friday)      | [Dining in Style](DiningInStyle.md)                       |
 | 09/06/2076 (Tuesday) - 14/06/2076 (Sunday)     | [Lending a Hand](LendingAHand.md)                         |
+| 03/07/2076 (Friday) - 11/07/2076 (Saturday)    | [SWATing Up](SWATingUp.md)                                |
+| 19/07/2076 (Sunday) - 22/7/2076 (Wednesday)    | [Short and Snappy](ShortAndSnappy.md)                     |
