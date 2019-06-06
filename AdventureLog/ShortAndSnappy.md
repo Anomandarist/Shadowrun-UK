@@ -8,7 +8,7 @@ title: Short and Snappy
 | --------- | ----------------------------------- |
 | Summary   | Repair Work                         |
 | Meet      | 19/07/2076 (Sunday)                 |
-| Run       | 21/07/2076 (Saturday)               |
+| Run       | 22/7/2076 (Wednesday)               |
 | Pay       | £5000 each                          |
 | Game Time | 11/04/2019 - 25/4/2019 (3 Sessions) |
 
@@ -136,6 +136,6 @@ Discuss the sewer layout
 - Return to the warehouse
 - Hosed down
 
-### 22/07/2076 (Tuesday)
+### 22/07/2076 (Wednesday)
 
 Meet Steve and Andy at their office, collect the pay £25000
