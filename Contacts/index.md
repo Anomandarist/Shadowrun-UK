@@ -26,6 +26,7 @@ layout: default
 |                                          | [Dax](Dax.md)         |               |  4  |           3            | Technomancer Mentor                 | Sanguine       |
 |                                          | [Del-Boy](DelBoy.md)  | Human         |  4  |           2            | Arms Dealer                         | Smith          |
 |                                          | [Halberd](Halberd.md) | Troll         |  4  |                        | Screaming Barons Leader             |                |
+|                                          | Mr. Carrotz           | Human         |  3  |           1            | Talismonger                         |                |
 |                                          | [Papa](Papa.md)       | Dwarf         |  4  |           2            | Fish Market Leader                  |                |
 |                                          | [Rex](Rex.md)         |               |  1  |           1            | Matrix Forger                       | Hash           |
 |                                          | [Varnish](Varnish.md) | Elf           |  3  |           3            | Fence                               | Pascal         |
