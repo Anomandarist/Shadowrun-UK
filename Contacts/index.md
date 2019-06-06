@@ -29,6 +29,7 @@ layout: default
 |                                          | Mr. Carrotz           | Human         |  3  |           1            | Talismonger                         |                |
 |                                          | [Papa](Papa.md)       | Dwarf         |  4  |           2            | Fish Market Leader                  |                |
 |                                          | [Rex](Rex.md)         |               |  1  |           1            | Matrix Forger                       | Hash           |
+|                                          | Sonny                 | Dwarf         |  4  |           2            | Souppe Kitchen Leader               |                |
 |                                          | [Varnish](Varnish.md) | Elf           |  3  |           3            | Fence                               | Pascal         |
 
 # Connection Rolls
