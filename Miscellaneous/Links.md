@@ -1,3 +1,7 @@
+---
+title: Links
+---
+
 [Party Notes](https://docs.google.com/document/d/17Ya2TPFLWeSvU2fiTV72KMWzybjQixAcTqo4kDByZGE/edit)  
 [Dunkelzahn's Will](http://shadowrun.wikia.com/wiki/Dunkelzahn%27s_Will)
 

@@ -13,9 +13,33 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
 	color: #e8e8e8;
-	margin: 0 0 10px;
+	margin: 10px 0;
 	font-family: "OpenSansRegular", "Helvetica Neue", Helvetica, Arial, sans-serif;
 	font-weight: normal;
+}
+
+h1, h2, h3 {
+	line-height:1.1;
+}
+
+h1 {
+	font-size:28px;
+}
+
+h2 {
+	font-size: 24px;
+}
+
+h3 {
+	font-size: 18px;
+	line-height: 24px;
+	font-family: 'OpenSansRegular', "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+	font-weight: normal;
+	color: #b6b6b6;
+}
+
+h4, h5, h6 {
+	color:#e8e8e8;
 }
 
 a {
@@ -64,36 +88,6 @@ td {
 
 /*------------------------------------------------------------------------------------------------*/
 
-input.spinner {
-	width: 50px;
-}
-
-/*------------------------------------------------------------------------------------------------*/
-
-table tr.buttons td {
-	padding-bottom: 0;
-
-	button {
-		margin-bottom: 5px;
-	}
-
-	label.ui-checkboxradio-label {
-		margin-bottom: 5px;
-	}
-}
-
-/*------------------------------------------------------------------------------------------------*/
-
-section#game {
-
-	img#thumbnail {
-		max-height: 100px;
-		max-width: 100px;
-	}
-}
-
-/*------------------------------------------------------------------------------------------------*/
-
 section#title {
 	border: 0;
 	outline: none;
@@ -113,35 +107,5 @@ section#title {
 		font-weight: normal;
 		font-size: 18px;
 		text-align: center;
-	}
-}
-
-/*------------------------------------------------------------------------------------------------*/
-
-table#Parameters {
-	display: inline-block;
-}
-
-/*------------------------------------------------------------------------------------------------*/
-
-#GamesList div {
-	border-bottom: 1px solid #434343;
-	display: inline-block;
-	height: 50px;
-	padding: 5px 10px;
-	width: 250px;
-	vertical-align: middle;
-
-	span.thumbnail {
-		height: 50px;
-		margin: 0 10px 0 0;
-		width: 50px;
-
-		img {
-			align: left;
-			max-height: 50px;
-			max-width: 50px;
-			vertical-align: middle;
-		}
 	}
 }
