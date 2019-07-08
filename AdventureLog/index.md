@@ -19,5 +19,6 @@ layout: default
 | 08/05/2076 (Friday) - 15/05/2076 (Friday)      | [Dining in Style](DiningInStyle.md)                       |
 | 09/06/2076 (Tuesday) - 14/06/2076 (Sunday)     | [Lending a Hand](LendingAHand.md)                         |
 | 03/07/2076 (Friday) - 11/07/2076 (Saturday)    | [SWATing Up](SWATingUp.md)                                |
-| 19/07/2076 (Sunday) - 22/7/2076 (Wednesday)    | [Short and Snappy](ShortAndSnappy.md)                     |
+| 19/07/2076 (Sunday) - 22/07/2076 (Wednesday)   | [Short and Snappy](ShortAndSnappy.md)                     |
 | 13/08/2076 (Thursday) - 04/09/2076 (Thursday)  | [The Rosyth Cuckoo](TheRosythCuckoo.md)                   |
+| 16/09/2076 (Tuesday) - 2/10/2076 (Thursday)    | [Coming out of Retirement](ComingOutOfRetirement.md)      |
