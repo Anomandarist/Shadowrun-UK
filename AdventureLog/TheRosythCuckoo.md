@@ -11,7 +11,7 @@ title: The Rosyth Cuckoo
 | Legwork   | 14/08/2076 (Friday) - 01/08/2076 (Tuesday)     |
 | Run       | 02/09/2076 (Wednesday) - 04/09/2076 (Thursday) |
 | Pay       | £20k each, 6 Karma                             |
-| Game Time | 25/04/2018 - 30/05/2018 (6 Sessions)           |
+| Game Time | 25/04/2019 - 30/05/2019 (6 Sessions)           |
 
 ## Details  
 

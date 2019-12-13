@@ -9,9 +9,9 @@ title: Coming Out of Retirement
 | Summary   | Extraction                                      |
 | Meet      | 17/09/2076 (Thursday)                           |
 | Legwork   | 18/08/2076 (Friday) - 30/09/2076 (Wednesday) |
-| Run       | 01/09/2076 (Thursday) - 02/09/2076 (Friday)     |
+| Run       | 01/10/2076 (Thursday) - 02/10/2076 (Friday)     |
 | Pay       | £25k each, 5 Karma                              |
-| Game Time | 30/05/2018 - 27/06/2018 (5 Sessions)            |
+| Game Time | 30/05/2019 - 27/06/2019 (5 Sessions)            |
 
 ## Details  
 
@@ -226,10 +226,10 @@ Total: £9,950
 - Siu Feng trots out with Jack, holding hit katana and brandishing it threateningly at the drone trying to distract/get its attention
 - Gerhart uses his assault cannon to blast the hell out of the remaining drone.  Detritus of bludgeoned firearms and drones litter the roof.
 
-- Sanguine checks ol lady still alive and unconscious.
-- Mage heals and wakes up russo boy
+- Sanguine checks Amelia still alive and unconscious.
+- Mage heals and wakes up Kazamir
 - Sanguine drags in Vlad
-- Siu drags along russo boy
+- Siu drags along Kazamir
 - We bundle into the VTOL and get out of there just before the remaining drone (previously tricked) could fire a missile on everyone.
 - Sanguine warns Gerhart about the magical ability of the lady, Bag her (leaving Sanguine’s trodes on her).
 - Sanguine checks VR-wise nothing is following.
@@ -249,16 +249,16 @@ Total: £9,950
 - Vlad once again runs for cover, but then has a change of heart and goes for the milithing but is unable to penetrate the armour
 - Jack's spirit comes under attack
 - Siu Feng grabs the decker by the scruff and drags him out, implying it’s time for a retreat.
-- Sanguine checks the item in the matrix - all it has is a biomonitor and commlink.  He decides to shoot.  Pulls trigger, figure spots and dodges, ugh.
+- Sanguine checks the item in the matrix - all it has is a biomonitor and commlink.  He decides to shoot.  Pulls trigger, figure spots and dodges.
 - Sophia and Gerhard hit the figure: the panther assault cannon round just bounces off.  Sophia hits a faultline on the shoulder and draws blood.
 - Jack lays asset down and enters astral plane to fight.  He sees a red lion.
 - Loki grabs a missile launcher off the wall, despite his lack of heavy weaponry ability, and summons his fortune to fire at the dude.  Vlad flees the immediate area in a panic.  Loki heads to cover the door, dropping the launcher.  Chips, cards, tables go everywhere, clips burn up and go off, kaboom, etc.
-- Smoke clears - enemy pops Gerhart in the knee. Oweee.
+- Smoke clears - enemy pops Gerhart in the knee.
 - Spirit fights the lion in astral combat.
 - Siu Feng goes to the sewer with decker and warns the VTOL is returning
 - Vlad comes back to assess the damage and send us an AR interrobang hovering above the enemy
 - Jack heals up his spirit.
-- Loki sees RoboCop finishes off Gerhard and drop a clip.  Oof.  At least Sanguine thought something was fishy about him.
+- Loki sees RoboCop finish off Gerhart and drop a clip.
 - Vlad tries to navigate through the smoke towards the cupboard.
 - Jack mutters about lack of ability in the astral plane, is cool with his spirit animal, so meh.  Stun bolts the lion…..and hits it.
 - VTOL returning and hangar/garage door opens
@@ -297,12 +297,12 @@ Total: £9,950
 - Pierre agrees to collect.
 - Trolls get asset.  We get money. All depart.  Pavlov took a hit to the back of the head out of vindictiveness.
 - Sanguine takes a hike, literally.
-- Siu Feng takes his share and vanishes after passing his deets to Jack.
-- Vlad wants to rifle through the SK dead russo’s pockets, but first wants to check Siu Feng isn’t a SKer. He isn’t. Vlad finds a pistol (destroying it as it’s SK), commlink and forearm cyberdeck - which Vlad takes.
+- Siu Feng takes his share and vanishes after passing his comcode to Jack.
+- Vlad wants to rifle through Kazamir's pockets, but first wants to check Siu Feng isn’t a SKer. He isn’t. Vlad finds a pistol (destroying it as it’s SK), commlink and forearm cyberdeck - which Vlad takes.
 - Loki wants to see Titania so leaves.  He gets an AR message advising it’s being moved and hacked, then nothing, and when he arrives it’s long gone.  This is a problem.
 
 - Loki asks for a bit of assistance -  CCTV checks from Sanguine, Jack even feels willing to stop by.  Loki gets into a cab (ugh) and thinks about towing companies and other removals.
-- Sanguine keeps searching CCTV for Titania.  By midafternoon Sanguine finds some tow pictures.
+- Sanguine keeps searching CCTV for Titania.  By mid-afternoon Sanguine finds some tow pictures.
 
 - Vlad hands over the commlink and cyberdeck to Sanguine and asks him to hack in
 - At a later date, gets on a bus and turns it on

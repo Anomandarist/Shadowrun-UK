@@ -22,3 +22,4 @@ layout: default
 | 19/07/2076 (Sunday) - 22/07/2076 (Wednesday)   | [Short and Snappy](ShortAndSnappy.md)                     |
 | 13/08/2076 (Thursday) - 04/09/2076 (Thursday)  | [The Rosyth Cuckoo](TheRosythCuckoo.md)                   |
 | 16/09/2076 (Tuesday) - 2/10/2076 (Thursday)    | [Coming out of Retirement](ComingOutOfRetirement.md)      |
+| 8/10/2076  (Thursday) - 16/10/2076 (Friday)    | [The Lighthouse Family](TheLighthouseFamily.md)           |
