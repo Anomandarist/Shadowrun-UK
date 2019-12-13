@@ -267,7 +267,7 @@ Shutters up - Dyson in Talbot’s car; E17/D8 and Titania stay outside, we walk 
 Loki puts a crate under the roller line to block it, but we have C4 as a backup
 Shutter closes and jams at troll-waist-height
 
-Bow and Arrow projected in by drone, we show the body of Annabelle to them.  They ask about perps (Smith DM suggests we pin Platinum up)
+Bow and Arrow projected in by drone, we show the body of Isabelle to them.  They ask about perps (Smith DM suggests we pin Platinum up)
 
 Inform them about Platinum and Isabelle’s possible connection to them - Propose that she is involved in her death
 

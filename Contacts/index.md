@@ -26,8 +26,10 @@ layout: default
 |                                          | [Dax](Dax.md)         |               |  4  |           3            | Technomancer Mentor                 | Sanguine       |
 |                                          | [Del-Boy](DelBoy.md)  | Human         |  4  |           2            | Arms Dealer                         | Smith          |
 |                                          | [Halberd](Halberd.md) | Troll         |  4  |                        | Screaming Barons Leader             |                |
-|                                          | [Papa](Papa.md)       | Dwarf         |  3  |           2            | Fish Market Leader                  |                |
+|                                          | Mr. Carrotz           | Human         |  3  |           1            | Talismonger                         |                |
+|                                          | [Papa](Papa.md)       | Dwarf         |  4  |           2            | Fish Market Leader                  |                |
 |                                          | [Rex](Rex.md)         |               |  1  |           1            | Matrix Forger                       | Hash           |
+|                                          | Sonny                 | Dwarf         |  4  |           2            | Souppe Kitchen Leader               |                |
 |                                          | [Varnish](Varnish.md) | Elf           |  3  |           3            | Fence                               | Pascal         |
 
 # Connection Rolls
